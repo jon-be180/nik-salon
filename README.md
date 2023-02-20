@@ -1,12 +1,25 @@
+# Nik Salon, Guatemala
+
+This is a GatsbyJS website for Nik Salon.
+
+Requirements:
+
+- NodeJS v18.6.0
+- Gatsby-cli v5.4
+- Gatsby v5.4.2
+- Yarn
+
+Note: gatsby develop does not run on wsl, use powershell, git wont work on powershell so use wsl
+
 # TODO
 
-about company page
-about team page
-ensure author/company markup exists
-ensure address etc is listed in footer
-add copyright with current year
+about company page - nosotros
+ask marelin for a history of the company, just bulletpoints is enough to start
+finish the booking page
+ensure author/company markup exists for each page
+ensure all contact detailsa are consistant on the site
 ensure images are on content pages
-beter mobile responsive
+beter mobile responsive designs, tablet, portrait, landscape etc
 cant pass classname into the animation for hero background image, do i need to do gatsby clean??? no idea!
 fix home page banner image, or replace with a video?
 take pictures for each service and try to make an intro video at the salon, missing

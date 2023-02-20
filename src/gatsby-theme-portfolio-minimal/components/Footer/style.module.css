@@ -46,6 +46,11 @@
     margin-right: 0;
 }
 
+.Bottom {
+    width: 100%;
+    text-align: center;
+}
+
 @media (min-width: 768px) {
     .Links a {
         margin-right: 4rem;
