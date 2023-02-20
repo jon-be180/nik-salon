@@ -1,0 +1,50 @@
+body[data-theme='lightTheme'] {
+    --primary-color: #181818;
+    --secondary-color: #f7e2d8; /* inside the physical shop is #9d8970 */
+    --tertiary-color: #f2f2f2;
+    --text-color: #000000;
+    --subtext-color: #555555;
+    --background-color: #f7e2d8;
+    --secondary-background-color: #ffffff;
+    --background-color-outline: #e6d2c8;
+
+    --splash-background: #fff;
+
+    --button-color: #7bc61f; /* from the dots in the logo */
+    --button-secondary-color: #6daf1b;
+    --button-text-color: #fff;
+
+    --scroll-bar-color: rgba(0, 0, 0, 0.5);
+    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --base-font: 'Halant', Times, serif;
+    --heading-font: 'Raleway, Arial, sans-serif';
+    --code-block-bg: #151f28;
+    --code-block-var: #ff39a7;
+    --code-block-num: #fed703;
+    --code-block-fun: #c653ff;
+    --code-block-keyword: #2bdcff;
+    --code-block-comment: #8292a2;
+    --code-block-tkimp: #fd971f;
+}
+
+body[data-theme='darkTheme'] {
+    --primary-color: #3daa2e;
+    --secondary-color: #499c4d;
+    --tertiary-color: #2b9130;
+    --text-color: rgba(255, 255, 255, 0.87);
+    --subtext-color: #aaaaaa;
+    --background-color: #8a3b3b;
+    --card-background-color: #1c1c1c;
+    --scroll-bar-color: rgba(255, 255, 255, 0.5);
+    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --base-font: 'Roboto', Arial, sans-serif;
+    --code-block-bg: #151f28;
+    --code-block-var: #ff39a7;
+    --code-block-num: #fed703;
+    --code-block-fun: #c653ff;
+    --code-block-keyword: #2bdcff;
+    --code-block-comment: #8292a2;
+    --code-block-tkimp: #fd971f;
+}

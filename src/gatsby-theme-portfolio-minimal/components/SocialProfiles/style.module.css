@@ -1,0 +1,33 @@
+.Profile {
+    width: auto;
+    height: auto;
+    background: var(--button-color);
+    background-size: 205% 100%;
+    background-position: right bottom;
+    border-radius: var(--border-radius);
+    padding: 0.3rem 1.25rem;
+    margin-right: 0.5rem;
+    transition: all 0.1s ease-out;
+    font-size: 1rem;
+    color: var(--button-text-color);
+}
+
+.Profile:hover {
+    background-position: left bottom;
+    background: var(--button-secondary-color);
+    color: var(--button-text-color);
+}
+
+.Profile svg {
+    height: 1rem;
+    width: 1rem;
+    margin-right: 0.25rem;
+    margin-bottom: -0.05rem;
+    margin-top: 1px;
+}
+
+@media (min-width: 768px) {
+    .Profile {
+        margin-right: 1rem;
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Reception",
+  "email": "reception@niksalon.com.gt",
+  "description": "Book an appointment with us using... a 3rd party contact form that will be embedded here..",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

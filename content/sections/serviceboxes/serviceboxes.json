@@ -1,0 +1,76 @@
+{
+  "serviceboxes": [
+    {
+      "label": "Balayage",
+      "url": "servicios/balayage",
+      "image": {
+        "src": "./../../images/services/boxes/balayage.png",
+        "alt": "a"
+      }
+    },
+    {
+      "label": "Cepillado Y Planchado",
+      "url": "servicios/cepillado-y-planchado",
+      "image": {
+        "src": "./../../images/services/boxes/cepillado-y-planchado.png",
+        "alt": "b"
+      }
+    },
+    {
+      "label": "Cortes",
+      "url": "servicios/cortes",
+      "image": {
+        "src": "./../../images/services/boxes/cortes.png",
+        "alt": "c"
+      }
+    },
+    {
+      "label": "Depilaciones",
+      "url": "servicios/depilaciones",
+      "image": {
+        "src": "./../../images/services/boxes/depilaciones.png",
+        "alt": "d"
+      }
+    },
+    {
+      "label": "Maquillaje",
+      "url": "servicios/maquillaje",
+      "image": {
+        "src": "./../../images/services/boxes/maquillaje.png",
+        "alt": "g"
+      }
+    },
+    {
+      "label": "Mechas",
+      "url": "servicios/mechas",
+      "image": {
+        "src": "./../../images/services/boxes/mechas.png",
+        "alt": "h"
+      }
+    },
+    {
+      "label": "Nail Bar",
+      "url": "servicios/nail-bar",
+      "image": {
+        "src": "./../../images/services/boxes/nail-bar.png",
+        "alt": "j"
+      }
+    },
+    {
+      "label": "Peinados",
+      "url": "servicios/peinados",
+      "image": {
+        "src": "./../../images/services/boxes/peinados.png",
+        "alt": "k"
+      }
+    },
+    {
+      "label": "Tintes",
+      "url": "servicios/tintes",
+      "image": {
+        "src": "./../../images/services/boxes/tintes.png",
+        "alt": "l"
+      }
+    }
+  ]
+}

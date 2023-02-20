@@ -1,0 +1,56 @@
+.Interests {
+    display: grid;
+    grid-template-columns: repeat(1, 17.5rem);
+    grid-auto-flow: row;
+    column-gap: 4rem;
+    row-gap: 1.5rem;
+}
+
+.Interest {
+    width: auto;
+    height: auto;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.25rem;
+}
+
+.Interest .Label {
+    background-color: var(--secondary-background-color);
+    font-size: 1rem;
+    text-align: center;
+    margin: 0;
+    margin-top: -2rem;
+    z-index: 10;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.Interest .Icon {
+    border-radius: 50%;
+    background-color: var(--secondary-background-color);
+}
+
+.Interest .LabelGroup {
+    margin: 0 0.2rem;
+}
+
+.Interest .LearnMore {
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--button-text-color);
+    background-color: var(--button-color);
+    padding: 0.5rem 1.5rem;
+}
+
+@media (min-width: 600px) {
+    .Interests {
+        grid-template-columns: repeat(2, 15.625rem);
+    }
+}
+
+@media (min-width: 880px) {
+    .Interests {
+        grid-template-columns: repeat(3, 20rem);
+    }
+}

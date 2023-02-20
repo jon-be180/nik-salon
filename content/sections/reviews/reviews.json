@@ -1,0 +1,42 @@
+{
+  "reviews": [
+    {
+      "visible": true,
+      "title": "It was very good value!",
+      "description": "I really enjoyed how cheap the salon is. Mrs Smith",
+      "stars": 4,
+      "date": "November 2022",
+      "services": "Nails"
+    },
+    {
+      "visible": true,
+      "title": "It was very cheap!",
+      "description": "I also really enjoyed how cheap the salon is. Mrs Smith",
+      "stars": 5
+    },
+    {
+      "visible": true,
+      "title": "Great value for the price!",
+      "description": "I was impressed by the affordability of the salon. The services were top-notch and exceeded my expectations. Highly recommend!",
+      "stars": 5
+    },
+    {
+      "visible": true,
+      "title": "Budget-friendly and great quality",
+      "description": "Budget-friendly and great quality - what more could you ask for? I had a great experience at the salon and will definitely be back.",
+      "stars": 5
+    },
+    {
+      "visible": true,
+      "title": "Pleasantly Surprised",
+      "description": "I was pleasantly surprised by how affordable the salon was. The staff was friendly and my haircut turned out great. Would definitely recommend.",
+      "stars": 5
+    },
+    {
+      "visible": true,
+      "title": "Affordable without sacrificing quality",
+      "description": "I love that this salon is so budget-friendly without sacrificing quality. I had a great experience and will be returning.",
+      "stars": 5
+    }
+  ]
+}

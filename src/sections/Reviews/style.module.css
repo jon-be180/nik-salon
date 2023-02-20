@@ -1,0 +1,12 @@
+.Reviews {
+    display: grid;
+    grid-template-columns: repeat(3, 22rem);
+    grid-auto-flow: row;
+    column-gap: 0.1rem;
+}
+
+@media (min-width: 992px) {
+    .Reviews {
+        margin-top: 0;
+    }
+}
