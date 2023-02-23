@@ -11,13 +11,16 @@ Requirements:
 
 Note: gatsby develop does not run on wsl, use powershell, git wont work on powershell so use wsl
 
+# Video TODO
+
+some of the images have motion blur
+marelin wants to re-shoot it afer changing some things
+some of the clips in the video are out of focus
+still not sure about some of the colours
+shortening the pan clip to remove the coke bottle probably messed up the sound sync
+
 # TODO
 
-some of the still images in the video need cropping to fill the screen
-some of the images have motion blur, marelin wants to re-shoot it afer changing some things
-some of the clips in the video are out of focus
-
-rename images to spanish names
 setup a suitable fallback image for mobile devices
 finish about us page, design it too
 ask marelin for a history of the company, just bulletpoints is enough to start
