@@ -4,7 +4,7 @@
       "label": "Balayage",
       "url": "servicios/balayage",
       "image": {
-        "src": "./../../images/services/boxes/balayage.png",
+        "src": "./../../images/servicios/balayage.png",
         "alt": "a"
       }
     },
@@ -12,7 +12,7 @@
       "label": "Cepillado Y Planchado",
       "url": "servicios/cepillado-y-planchado",
       "image": {
-        "src": "./../../images/services/boxes/cepillado-y-planchado.png",
+        "src": "./../../images/servicios/cepillado-y-planchado.png",
         "alt": "b"
       }
     },
@@ -20,7 +20,7 @@
       "label": "Cortes",
       "url": "servicios/cortes",
       "image": {
-        "src": "./../../images/services/boxes/cortes.png",
+        "src": "./../../images/servicios/cortes.png",
         "alt": "c"
       }
     },
@@ -28,7 +28,7 @@
       "label": "Depilaciones",
       "url": "servicios/depilaciones",
       "image": {
-        "src": "./../../images/services/boxes/depilaciones.png",
+        "src": "./../../images/servicios/depilaciones.png",
         "alt": "d"
       }
     },
@@ -36,7 +36,7 @@
       "label": "Maquillaje",
       "url": "servicios/maquillaje",
       "image": {
-        "src": "./../../images/services/boxes/maquillaje.png",
+        "src": "./../../images/servicios/maquillaje.png",
         "alt": "g"
       }
     },
@@ -44,7 +44,7 @@
       "label": "Mechas",
       "url": "servicios/mechas",
       "image": {
-        "src": "./../../images/services/boxes/mechas.png",
+        "src": "./../../images/servicios/mechas.png",
         "alt": "h"
       }
     },
@@ -52,7 +52,7 @@
       "label": "Nail Bar",
       "url": "servicios/nail-bar",
       "image": {
-        "src": "./../../images/services/boxes/nail-bar.png",
+        "src": "./../../images/servicios/nail-bar.png",
         "alt": "j"
       }
     },
@@ -60,7 +60,7 @@
       "label": "Peinados",
       "url": "servicios/peinados",
       "image": {
-        "src": "./../../images/services/boxes/peinados.png",
+        "src": "./../../images/servicios/peinados.png",
         "alt": "k"
       }
     },
@@ -68,7 +68,7 @@
       "label": "Tintes",
       "url": "servicios/tintes",
       "image": {
-        "src": "./../../images/services/boxes/tintes.png",
+        "src": "./../../images/servicios/tintes.png",
         "alt": "l"
       }
     }

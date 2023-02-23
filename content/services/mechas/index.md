@@ -3,7 +3,7 @@ title: "Mechas"
 description: "Get a bold and beautiful makeover with our hair tinting services at Nik Salon. Choose from a variety of options including permanent, temporary, and natural tints. Let our talented stylists bring your hair dreams to life with custom color solutions. Book your appointment today!"
 date: "2021-05-28"
 banner:
-  src: "../../images/services/haircuts.jpg"
+  src: "../../images/servicios/haircuts.jpg"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:

@@ -17,7 +17,6 @@ some of the still images in the video need cropping to fill the screen
 some of the images have motion blur, marelin wants to re-shoot it afer changing some things
 some of the clips in the video are out of focus
 
-other pages now lack margin-top for the video
 rename images to spanish names
 setup a suitable fallback image for mobile devices
 finish about us page, design it too
@@ -61,7 +60,16 @@ an intro video? i have some bits of this but not enough i think.. need a script 
 
 # Phase 2:
 
+get word count of competing companies and articles using
+use short paragraphs for content so its easy to read
+ensure articles have a lot of images in them, esp after h1/h2
+include some callout designs for important text like the CTA
+include a yes/no goog/bad comparison table or other design using ticks and crosses etc
+use lists for breaking up the content
+ensure articles have keywords in the url, hyphens and keep them fairly short
+add related links to other pages into the content
 keyword optimisation for service pages, answerthepublic
+screamingfrog free ediion will work well
 twitter and tweet about the new blog article
 research more keywords to target for the blog area
 rank tracker system, serpfox has some free options

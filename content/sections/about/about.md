@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/salon-inside.jpg"
+imageSrc: "../../images/salon-adentro.jpg"
 imageAlt: "Nik Salon Staff Welcome"
 ---
 

@@ -3,7 +3,7 @@ title: "Cortes"
 description: "This description will be used for the article listing and search results on Google."
 date: "2022-05-28"
 banner:
-  src: "./../../images/services/cortes.png"
+  src: "./../../images/servicios/cortes.png"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:

@@ -3,7 +3,7 @@ title: "Tintes"
 description: "Transform your look with a full hair coloring service from our expert colorists. From trendy and custom hair color to permanent and semi-permanent options, we offer a range of professional hair coloring treatments to suit your needs. Book a hair color appointment today and discover the best hair color ideas for your unique style."
 date: "2021-05-28"
 banner:
-  src: "../../images/services/tintes.png"
+  src: "../../images/servicios/tintes.png"
   alt: "Expert Hair Coloring: Custom, Trendy, and Timeless Looks at Nik Salon"
   caption: "Photo showing colored hair"
 categories:

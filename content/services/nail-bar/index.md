@@ -3,7 +3,7 @@ title: "Nail Bar"
 description: "This description will be used for the article listing and search results on Google."
 date: "2023-02-28"
 banner:
-  src: "./../../images/services/nail-bar.png"
+  src: "./../../images/servicios/nail-bar.png"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
