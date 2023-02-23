@@ -181,9 +181,10 @@
 
 main  {
     background: var(--background-color);
-    padding-top: 8em;   
+  /*  padding-top: 8em;  */ 
     border-top-right-radius: 30% 5rem;
     border-top-left-radius: 50% 10rem;
+    overflow: auto; /* ensure the border is above whatever is inside this div, to ensure the shape is visible */
 }
 body {
     background: var(--secondary-background-color);

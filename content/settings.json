@@ -7,13 +7,13 @@
     "description": "En nuestro salón de belleza ofrecemos una amplia variedad de servicios de peluquería y estética para mejorar tu apariencia. Ven y descubre nuestras opciones",
     "author": "Nik Salon",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "This is no longer userd, biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "instagram": "https://instagram.com/niksal0n",
-      "facebook": "hardcoded in hero component too, sorry"
+      "facebook": "I hardcoded this in hero component too, sorry"
     },
     "address": "Km 17.4 Carretera a San Jose Pinula, CC Plaza Pinula, local 16, Guatemala, Guatemala. hardcoded, sorry",
-    "email": "reception@niksalon.com.gt hardcoded, sorry",
+    "email": "reception@niksalon.com.gt hardcoded too, sorry",
     "openingtimes" : [
       {"day": "Lunes - Jueves", "time": "08:00 - 18:00"},
       {"day": "Viernes",        "time": "08:30 - 18:30"},
@@ -27,16 +27,16 @@
     },
     "navigation": {
       "header": [
-        { "label": "Galería",   "url": "/#galeria" },
         { "label": "Servicios", "url": "/servicios" },
+        { "label": "Sobre Nosotros", "url": "/sobre-nosotros" },
         { "label": "Blog",      "url": "/blog" },
-        { "label": "Reviews",   "url": "/#reviews" },
+        { "label": "Reseñas",   "url": "/#reseñas" },
         { "label": "Contacto",  "url": "/#contacto" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Reservar en Línea",
-        "url": "/#contacto"
+        "url": "/reservar"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" }

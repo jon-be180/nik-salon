@@ -13,11 +13,19 @@ Note: gatsby develop does not run on wsl, use powershell, git wont work on power
 
 # TODO
 
-about company page - nosotros
+some of the still images in the video need cropping to fill the screen
+some of the images have motion blur, marelin wants to re-shoot it afer changing some things
+some of the clips in the video are out of focus
+
+other pages now lack margin-top for the video
+rename images to spanish names
+setup a suitable fallback image for mobile devices
+finish about us page, design it too
 ask marelin for a history of the company, just bulletpoints is enough to start
 finish the booking page
 ensure author/company markup exists for each page
 ensure all contact detailsa are consistant on the site
+finish the waze icon link in the footer
 ensure images are on content pages
 beter mobile responsive designs, tablet, portrait, landscape etc
 cant pass classname into the animation for hero background image, do i need to do gatsby clean??? no idea!

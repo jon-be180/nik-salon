@@ -1,12 +1,18 @@
 .HeroContainer {
-    display: flex;
+   position: absolute;
+   top: 16rem;
 }
 
 .HeroOuter {
-    background-image: url('../../../../content/images/lady.png');
+   /* background-image: url('../../../../content/images/lady.png');*/
     background-position: right top;
 /*    background-attachment: fixed; */
     background-repeat: no-repeat;
+}
+
+.Video {
+    opacity: 0.4;
+    width: 100%;
 }
 
 .Hero {
@@ -19,7 +25,9 @@
     border: solid 1px var(--background-color-outline);
     border-radius: var(--border-radius);
     padding: 2em;
-    max-width: 50%;
+    max-width: 35%;
+    margin-right: 44%;
+
 }
 
 .Hero .Title {
@@ -65,6 +73,7 @@
 }
 
 @media (min-width: 768px) {
+
     .Hero .Title {
         font-size: 2.625rem;
         line-height: 4rem;
@@ -109,5 +118,9 @@
     .Hero {
         display: block;
         max-width: 100%;
+    }
+
+    .Video {
+        display: none;
     }
 }
