@@ -21,12 +21,10 @@ shortening the pan clip to remove the coke bottle probably messed up the sound s
 
 # TODO
 
-setup a suitable fallback image for mobile devices
-finish about us page, design it too
-ask marelin for a history of the company, just bulletpoints is enough to start
+ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
 finish the booking page
 ensure author/company markup exists for each page
-ensure all contact detailsa are consistant on the site
+ensure all contact details are consistant on the site
 finish the waze icon link in the footer
 ensure images are on content pages
 beter mobile responsive designs, tablet, portrait, landscape etc

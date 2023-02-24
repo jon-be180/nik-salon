@@ -3,7 +3,7 @@ title: "Balayage"
 description: ""
 date: "2023-02-10"
 banner:
-  src: "./../../images/services/balayage.png"
+  src: "./../../images/servicios/balayage.png"
   alt: "Woman with stunning tinted hair"
   caption: "Transform your hair with our expert hair tinting services. Book your appointment now at Nik Salon and experience the difference."
 categories:
