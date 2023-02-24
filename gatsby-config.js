@@ -54,7 +54,19 @@ module.exports = {
         path: `./content/services/`,
       },
     },
-    
+    {
+      resolve: `gatsby-plugin-robots-txt`,
+      options: {
+        host: 'https://www.niksalon.com.gt',
+        sitemap: 'https://www.niksalon.com.gt/sitemap.xml',
+        policy: [
+          {userAgent: '*', allow: '/'},
+          {userAgent: 'ahrefsbot',  disallow: '/'},
+          {userAgent: 'semrushbot', disallow: '/'},
+          {userAgent: 'mj12bot',    disallow: '/'},
+      ]
+      },
+    },
   
   ]
 };

@@ -26,7 +26,10 @@ export function Footer(): React.ReactElement {
               CC Plaza Pinula, Local 16, Guatemala
             </p>
             <p>
-              <a href="https://ul.waze.com/ul?preview_venue_id=176685201.1766524334.4873319&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">
+              <a
+                className={classes.Waze}
+                href="https://ul.waze.com/ul?preview_venue_id=176685201.1766524334.4873319&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+              >
                 Ir con Waze
               </a>
             </p>

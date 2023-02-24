@@ -13,24 +13,35 @@ Note: gatsby develop does not run on wsl, use powershell, git wont work on power
 
 # Video TODO
 
-some of the images have motion blur
+some of the clips have motion blur, edit or reshoot
 marelin wants to re-shoot it afer changing some things
 some of the clips in the video are out of focus
 still not sure about some of the colours
 shortening the pan clip to remove the coke bottle probably messed up the sound sync
 
-# TODO
+# pre-live TODO
 
-ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
 finish the booking page
 ensure author/company markup exists for each page
 ensure all contact details are consistant on the site
-finish the waze icon link in the footer
 ensure images are on content pages
 beter mobile responsive designs, tablet, portrait, landscape etc
-cant pass classname into the animation for hero background image, do i need to do gatsby clean??? no idea!
-fix home page banner image, or replace with a video?
-take pictures for each service and try to make an intro video at the salon, missing
+cant pass classname into the animation for hero background image, do i need to do gatsby clean??? no idea! - why do i need this again?
+add AI content to each service
+add more animations to make it look pretty, add parallax
+look at using some stock images for whatever i dont have
+add images to services on home page using the taken photos
+contact form service from who
+CTA on each searvice page needs to work smoothly, make into a component - i think i have changed the css enough to make this easy
+
+# After First Live Release TODO
+
+setup google analytics
+setup google search console
+
+# Images TODO
+
+take pictures for each service, missing
 
 - balayage
 - tintes
@@ -39,20 +50,9 @@ take pictures for each service and try to make an intro video at the salon, miss
 - cepilado y planchado
 - depilacions
 
-robots block ahrefsbot, semrushbot, mj12bot
-
-add AI content to each service
-add more animations to make it look pretty, add parallax
-look at using some stock images for whatever i dont have
-add images to services on home page using the taken photos
-setup google analytics
-setup google search console
-contact form service from who
-CTA on each searvice page needs to work smoothly, make into a component - i think i have changed the css enough to make this easy
-an intro video? i have some bits of this but not enough i think.. need a script for marelin
-
 ## Tasks for Marelin
 
+- ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
 - buy the domain name
 - give me access to the google account for creating the business listing
 - give me access to the google account for managing analytics and search console
@@ -103,6 +103,7 @@ using answerthepublic
 then google the keyword and see "people also ask" - seo minion download these questions
 autosuggest "does" "what" "how"...
 related searches from google
+finish the waze icon link in the footer
 ask chatgpt for topics "semantically releavant and unique"
 then ask it to give me variations of...
 keyword cupid - paid - can goup the topics, chatgpt too?

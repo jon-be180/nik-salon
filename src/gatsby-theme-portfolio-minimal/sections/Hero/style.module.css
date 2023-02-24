@@ -13,6 +13,9 @@
 .Video {
     opacity: 0.4;
     width: 100%;
+    margin-bottom: 8rem;
+    border-bottom-right-radius: 50% 10rem;
+    border-bottom-left-radius: 50% 5rem;
 }
 
 .Hero {
