@@ -12,34 +12,13 @@ body[data-theme='lightTheme'] {
 
     --button-color: #7bc61f; /* from the dots in the logo */
     --button-secondary-color: #6daf1b;
-    --button-text-color: #fff;
+    --button-text-color: #000;
 
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
     --base-font: 'Halant', Times, serif;
     --heading-font: 'Raleway, Arial, sans-serif';
-    --code-block-bg: #151f28;
-    --code-block-var: #ff39a7;
-    --code-block-num: #fed703;
-    --code-block-fun: #c653ff;
-    --code-block-keyword: #2bdcff;
-    --code-block-comment: #8292a2;
-    --code-block-tkimp: #fd971f;
-}
-
-body[data-theme='darkTheme'] {
-    --primary-color: #3daa2e;
-    --secondary-color: #499c4d;
-    --tertiary-color: #2b9130;
-    --text-color: rgba(255, 255, 255, 0.87);
-    --subtext-color: #aaaaaa;
-    --background-color: #8a3b3b;
-    --card-background-color: #1c1c1c;
-    --scroll-bar-color: rgba(255, 255, 255, 0.5);
-    --box-shadow-color: rgba(0, 0, 0, 0.16);
-    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
-    --base-font: 'Roboto', Arial, sans-serif;
     --code-block-bg: #151f28;
     --code-block-var: #ff39a7;
     --code-block-num: #fed703;

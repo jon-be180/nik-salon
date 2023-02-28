@@ -22,11 +22,11 @@ module.exports = {
           path: "/servicios",
           usePathPrefixForArticles: true, // Default true (i.e. path will be /services/hair-cutting)
         },
-        // googleAnalytics: { planning to use cloudflare webstats
-        //     trackingId: "UA-XXXXXX-X",
-        //     anonymize: true, // Default true
-        //     environments: ["production", "development"] // Default ["production"]
-        // }
+         googleAnalytics: { 
+             trackingId: "G-DMDPNGDV0M",
+             anonymize: true, // Default true
+             environments: ["production", "development"] // Default ["production"]
+         }
       },
     },
     {
@@ -58,7 +58,7 @@ module.exports = {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
         host: 'https://www.niksalon.com.gt',
-        sitemap: 'https://www.niksalon.com.gt/sitemap.xml',
+        sitemap: 'https://www.niksalon.com.gt/sitemap-index.xml',
         policy: [
           {userAgent: '*', allow: '/'},
           {userAgent: 'ahrefsbot',  disallow: '/'},
@@ -67,6 +67,8 @@ module.exports = {
       ]
       },
     },
-  
+    {
+      resolve: `gatsby-plugin-sitemap`
+    },
   ]
 };

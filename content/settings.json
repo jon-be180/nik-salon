@@ -12,8 +12,8 @@
       "instagram": "https://instagram.com/niksal0n",
       "facebook": "I hardcoded this in hero component too, sorry"
     },
-    "address": "Km 17.4 Carretera a San Jose Pinula, CC Plaza Pinula, local 16, Guatemala, Guatemala. hardcoded, sorry",
-    "email": "reception@niksalon.com.gt hardcoded too, sorry",
+    "address": "hardcoded, sorry",
+    "email": "hardcoded too, sorry",
     "openingtimes" : [
       {"day": "Lunes - Jueves", "time": "08:00 - 18:00"},
       {"day": "Viernes",        "time": "08:30 - 18:30"},
@@ -39,7 +39,6 @@
         "url": "/reservar"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {

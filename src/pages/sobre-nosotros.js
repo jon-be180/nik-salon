@@ -3,7 +3,6 @@ import {
   Page,
   ContactSection,
   Seo,
-  Animation,
   Section
 } from "gatsby-theme-portfolio-minimal";
 import { StaticImage } from "gatsby-plugin-image"

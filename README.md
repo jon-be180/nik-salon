@@ -14,15 +14,26 @@ Note: gatsby develop does not run on wsl, use powershell, git wont work on power
 # Video TODO
 
 some of the clips have motion blur, edit or reshoot
-marelin wants to re-shoot it afer changing some things
+marelin wants to re-shoot it afer changing some things in the shop
 some of the clips in the video are out of focus
 still not sure about some of the colours
 shortening the pan clip to remove the coke bottle probably messed up the sound sync
 
 # pre-live TODO
 
-finish the booking page
-ensure author/company markup exists for each page
+use seominion for opengraph checking of each apges author, business markup etc
+meta description is 6 characters too long than 150
+nofollow the waze link
+lots of bad alt tags (open seo stats)
+strip audio from the intro video for the website
+mobile responseive for the heading doesnt look good at all
+no canonical or base or robots or hrefland fields in the header
+switch hero intro to use title tags, h1, h2 missing - many h3
+blog listing page lacks h1, title and meta tags - add a block of text to explain what the page is for
+blog section needs content and images
+lots of erros in the console about gatsbyimage, but where?
+fully use spanish
+section/coooontact is still about and might be broken?
 ensure all contact details are consistant on the site
 ensure images are on content pages
 beter mobile responsive designs, tablet, portrait, landscape etc
@@ -37,7 +48,11 @@ CTA on each searvice page needs to work smoothly, make into a component - i thin
 # After First Live Release TODO
 
 setup google analytics
+facebook key - need marelin to login to the business facebook account
+google map api key - need marelin and her business card
 setup google search console
+nightwatch.io for rank monitoring
+spamzilla to possibly buy expired old relevant domains for easy backlinks
 
 # Images TODO
 
@@ -53,14 +68,14 @@ take pictures for each service, missing
 ## Tasks for Marelin
 
 - ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
-- buy the domain name
+- decide on what booking platform to use, if any
 - give me access to the google account for creating the business listing
-- give me access to the google account for managing analytics and search console
-- make the into video, if i decide to make one
-- decide if she wants email and who it should forward to, remember you cannot reply using my system of free email
+- give me access to the google account for managing analytics and search console - im doing that now...
+- she needs to approve the hola@niksalon.com.gt email i made for her
 
 # Phase 2:
 
+put back in the privacy footer link - { "label": "Privacy", "url": "/privacy" }
 get word count of competing companies and articles using
 use short paragraphs for content so its easy to read
 ensure articles have a lot of images in them, esp after h1/h2
@@ -73,6 +88,7 @@ keyword optimisation for service pages, answerthepublic
 screamingfrog free ediion will work well
 twitter and tweet about the new blog article
 research more keywords to target for the blog area
+5 in-links for each page, so for blog, 1 on the listing and 4 from other pages, screamingfrog "inlinks" section can show thise
 rank tracker system, serpfox has some free options
 compare article types for targeted keywords, read headings and writing style
 use content score serferscontenteditor
@@ -171,6 +187,7 @@ keratina k-milk - k-milk keratin GONE
 - ask for a review after the appointment
 
 topical authority:
+think of a keyword funnel, going from generic "what is a beauty salon" to "best type of hair extensions" or "best salon for highlights" - conversions are low with general but visits high, this is really for topical authority
 author/bio page - connect to personal profiles, reference articles to that page
 answer main questions for the topic
 create supporting pages that link to the main service page for each type, within the content
@@ -263,6 +280,7 @@ this also means you cant change anything either, so make a local copy of the plu
 resolver is for the body field of articles, the error wont tell you this and a search on github wont show it up either :(
 inar is argan oil, kmilk is probably too
 medias is like a line of colour in the hair, highlights, so i have two. what is tintes then?
+note- i think that pwa wont be possible for 7/7 as icon options cant be added without replacing the whole plugin :(
 
 # example problem log
 

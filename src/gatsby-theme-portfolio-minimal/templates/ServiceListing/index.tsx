@@ -32,7 +32,7 @@ export default function ServiceListingTemplate(
       <Seo title="All Services" useTitleTemplate={true} />
       <Page>
         <SpacerHeroSection />
-        <Section anchor="articleListing" heading="Our Services">
+        <Section anchor="articleListing" heading="Nuestros Servicios">
           <div className={classes.Listing}>
             {articles.slice(0, shownArticlesNumber).map((article, key) => {
               return (

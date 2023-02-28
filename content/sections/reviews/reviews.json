@@ -2,40 +2,22 @@
   "reviews": [
     {
       "visible": true,
-      "title": "It was very good value!",
-      "description": "I really enjoyed how cheap the salon is. Mrs Smith",
-      "stars": 4,
+      "title": "Uñas de Gel Fantásticas y Servicio Amable",
+      "description": "Recientemente visité Nik Salon para una cita de uñas de gel y debo decir que quedé muy impresionada con mi experiencia. Desde el momento en que entré, fui recibida con una cálida sonrisa y un ambiente acogedor. El servicio que recibí fue de primera calidad y quedé muy contenta con mis nuevas uñas de gel. Recomiendo encarecidamente este salón de belleza a cualquiera que busque una gran experiencia de uñas.",
+      "stars": 5,
       "date": "November 2022",
       "services": "Nails"
     },
     {
       "visible": true,
-      "title": "It was very cheap!",
-      "description": "I also really enjoyed how cheap the salon is. Mrs Smith",
-      "stars": 5
+      "title": "Una Buena Experiencia de Corte y Estilo en Nik Salon",
+      "description": "Hace unas semanas visité Nik Salon para un corte y estilo, y quedé muy contenta con los resultados. El estilista escuchó cuidadosamente mis solicitudes y me dio un corte de cabello que fue exactamente lo que quería. El ambiente del salón es cómodo y acogedor, y el personal fue amable y profesional. En general, tuve una buena experiencia en Nik Salon y lo recomendaría a otros.",
+      "stars": 4
     },
     {
       "visible": true,
-      "title": "Great value for the price!",
-      "description": "I was impressed by the affordability of the salon. The services were top-notch and exceeded my expectations. Highly recommend!",
-      "stars": 5
-    },
-    {
-      "visible": true,
-      "title": "Budget-friendly and great quality",
-      "description": "Budget-friendly and great quality - what more could you ask for? I had a great experience at the salon and will definitely be back.",
-      "stars": 5
-    },
-    {
-      "visible": true,
-      "title": "Pleasantly Surprised",
-      "description": "I was pleasantly surprised by how affordable the salon was. The staff was friendly and my haircut turned out great. Would definitely recommend.",
-      "stars": 5
-    },
-    {
-      "visible": true,
-      "title": "Affordable without sacrificing quality",
-      "description": "I love that this salon is so budget-friendly without sacrificing quality. I had a great experience and will be returning.",
+      "title": "Servicio amigable y tratamientos de calidad",
+      "description": "Hace poco visité Nik Salon para servicios de cabello, uñas y maquillaje, y tuve una excelente experiencia. El personal fue amable y servicial, y pude relajarme y disfrutar de mis tratamientos. La coloración del cabello quedó genial, quedé muy contenta con el resultado final. En general, recomiendo Nik Salon para cualquier persona que busque un salón de belleza de calidad.",
       "stars": 5
     }
   ]
