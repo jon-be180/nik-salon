@@ -16,7 +16,7 @@ import { ServiceBoxesSection } from '../sections/ServiceBoxes'
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="sobre" heading="Sobre Nosotras" />

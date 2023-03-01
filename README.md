@@ -21,6 +21,8 @@ shortening the pan clip to remove the coke bottle probably messed up the sound s
 
 # pre-live TODO
 
+jotform for booking form? waiting for marelin to confirm
+better page titles
 use seominion for opengraph checking of each apges author, business markup etc
 meta description is 6 characters too long than 150
 nofollow the waze link

@@ -76,12 +76,12 @@ export default function ArticleListingTemplate(
 
   return (
     <>
-      <Seo title="All Articles" useTitleTemplate={true} />
+      <Seo title="Artículos" useTitleTemplate={true} />
       <Page>
         <SpacerHeroSection />
-        <Section anchor="articleListing" heading="Articles">
+        <Section anchor="articleListing" heading="Artículos">
           <div className={classes.Filter}>
-            Select categories to filter articles
+            Seleccionar categorías para filtrar artículos
             <Slider additionalClasses={[classes.Options]}>
               {filterOptions.map((option, key) => {
                 return (

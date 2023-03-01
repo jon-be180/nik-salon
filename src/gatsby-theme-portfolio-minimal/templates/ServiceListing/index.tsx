@@ -29,7 +29,7 @@ export default function ServiceListingTemplate(
 
   return (
     <>
-      <Seo title="All Services" useTitleTemplate={true} />
+      <Seo title="Nuestros Servicios" useTitleTemplate={true} />
       <Page>
         <SpacerHeroSection />
         <Section anchor="articleListing" heading="Nuestros Servicios">
