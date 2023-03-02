@@ -23,7 +23,7 @@
   "siteConfiguration": {
     "logo": { 
       "src": "./logo.png hardcoded, sorry",
-      "alt": "Nik Salon"
+      "alt": "Nik Salon also hardcoded as its blank inside the component"
     },
     "navigation": {
       "header": [

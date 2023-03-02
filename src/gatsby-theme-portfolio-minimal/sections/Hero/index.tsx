@@ -10,7 +10,9 @@ import { StaticImage } from "gatsby-plugin-image";
 import * as classes from "./style.module.css";
 
 import IntroVideoWebm from "./../../../../content/videos/nik-salon-intro.webm";
-import IntroVideoMp from "./../../../../content/videos/nik-salon-intro.mp4";
+
+//import IntroVideoMp from "./../../../../content/videos/nik-salon-intro.mp4";
+//<source src={IntroVideoMp} type="video/mp4" />
 
 export function HeroSection(props: PageSection): React.ReactElement {
   const response = useLocalDataSource();
@@ -21,10 +23,10 @@ export function HeroSection(props: PageSection): React.ReactElement {
     <Animation type="fadeUp" delay={400} className={classes.HeroOuter}>
       <video autoPlay muted loop className={classes.Video}>
         <source src={IntroVideoWebm} type="video/webm" />
-        <source src={IntroVideoMp} type="video/mp4" />
+
         <StaticImage
           src="./../../../../content/images/nik-salon-intro.png"
-          alt="Introducing Nik Salon"
+          alt="Nik Salon Intro"
         />
       </video>
       <div className={classes.HeroContainer}>

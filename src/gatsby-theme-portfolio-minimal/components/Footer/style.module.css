@@ -20,7 +20,7 @@
     align-items: center;
 }
 
-.box {
+.box, .boxCenter {
     margin-left: 2rem;
     flex: 1;
     height: 12rem;
@@ -62,5 +62,17 @@
 @media (min-width: 768px) {
     .Links a {
         margin-right: 4rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .box {
+        height: 20rem;
+    }
+    .boxCenter {
+        display: none;
+    }
+    .logoLink {
+        display: none;
     }
 }

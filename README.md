@@ -21,12 +21,13 @@ shortening the pan clip to remove the coke bottle probably messed up the sound s
 
 # pre-live TODO
 
+i deleted the mp4 intro video for zip size space on cloudflare
 jotform for booking form? waiting for marelin to confirm
 better page titles
 use seominion for opengraph checking of each apges author, business markup etc
 meta description is 6 characters too long than 150
 nofollow the waze link
-lots of bad alt tags (open seo stats)
+lots of bad alt tags (open seo stats) - fixed logo, where else?
 strip audio from the intro video for the website
 mobile responseive for the heading doesnt look good at all
 no canonical or base or robots or hrefland fields in the header

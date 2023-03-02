@@ -15,7 +15,7 @@ export function Footer(): React.ReactElement {
     <footer>
       <div className={classes.Footer}>
         <div className={classes.ContentWrapper}>
-          <Link to="/" aria-label="home">
+          <Link className={classes.logoLink} to="/" aria-label="home">
             <Logo fontSize="1.5rem" />
           </Link>
 
@@ -35,7 +35,7 @@ export function Footer(): React.ReactElement {
             </p>
           </div>
 
-          <div className={classes.box}>
+          <div className={classes.boxCenter}>
             <h3>Correo Electrónico</h3>
             <p>
               <a href="mailto:hola@niksalon.com.gt">hola@niksalon.com.gt</a>
