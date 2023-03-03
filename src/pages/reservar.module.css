@@ -1,11 +1,19 @@
-Iframe {
+.Iframe {
     width: 100%;
     height: 156rem;
     margin-top: -8rem;
 }
 
+.Blocker {
+    width: 100%; 
+    height: 4rem; 
+    background: var(--background-color);
+    position: relative;
+    top: -4rem;
+}
+
 @media(max-width: 768px) {
-    Iframe {
+    .Iframe {
         height: 180rem;
     }
 }

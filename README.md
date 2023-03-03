@@ -18,17 +18,13 @@ marelin wants to re-shoot it afer changing some things in the shop
 some of the clips in the video are out of focus
 still not sure about some of the colours
 shortening the pan clip to remove the coke bottle probably messed up the sound sync
+strip audio from the intro video for the website
 
 # pre-live TODO
 
-i deleted the mp4 intro video for zip size space on cloudflare
-jotform for booking form? waiting for marelin to confirm
 better page titles
 use seominion for opengraph checking of each apges author, business markup etc
 meta description is 6 characters too long than 150
-nofollow the waze link
-lots of bad alt tags (open seo stats) - fixed logo, where else?
-strip audio from the intro video for the website
 mobile responseive for the heading doesnt look good at all
 no canonical or base or robots or hrefland fields in the header
 switch hero intro to use title tags, h1, h2 missing - many h3
@@ -284,6 +280,7 @@ resolver is for the body field of articles, the error wont tell you this and a s
 inar is argan oil, kmilk is probably too
 medias is like a line of colour in the hair, highlights, so i have two. what is tintes then?
 note- i think that pwa wont be possible for 7/7 as icon options cant be added without replacing the whole plugin :(
+i had to delete the mp4 intro video for zip size space on cloudflare limit of 25mb because no node 18 to buid
 
 # example problem log
 

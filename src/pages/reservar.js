@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  ContactSection,
   Page,
   Seo,
   Section
@@ -26,19 +25,19 @@ export default function IndexPage() {
         </Section>
         <Section anchor="" heading="">
 
-    <iframe
-      className={classes.Iframe}
-      id="JotFormIFrame-230596760337058"
-      title="Booking Form"
-      src="https://form.jotform.com/230596760337058"
-      frameborder="0"
-      scrolling="no"
-    >
-    </iframe>
-    <div style={{ width: "100%", height: "4rem", background: "var(--background-color)", position: "relative", top: "-4rem"}}>
-      &nbsp;
-    </div>
-    
+        <iframe
+          className={classes.Iframe}
+          id="JotFormIFrame-230596760337058"
+          title="Booking Form"
+          src="https://form.jotform.com/230596760337058"
+          frameborder="0"
+          scrolling="no"
+        >
+        </iframe>
+        <div className={classes.Blocker}>
+          &nbsp;
+        </div>
+        
         </Section>
         <ReviewsSection sectionId="reviews" heading="Reseñas de clientes" />
         <GoogleMap/>
