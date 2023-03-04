@@ -2,74 +2,74 @@
   "serviceboxes": [
     {
       "label": "Balayage",
-      "url": "servicios/balayage",
+      "url": "servicios/balayage/",
       "image": {
         "src": "./../../images/servicios/balayage.png",
-        "alt": "a"
+        "alt": "Cabello Balayage en Mujer - Experimente las Últimas Tendencias en Coloración del Cabello con Nuestros Estilistas Expertos en Nik Salon."
       }
     },
     {
       "label": "Cepillado Y Planchado",
-      "url": "servicios/cepillado-y-planchado",
+      "url": "servicios/cepillado-y-planchado/",
       "image": {
         "src": "./../../images/servicios/cepillado-y-planchado.png",
-        "alt": "b"
+        "alt": "Herramientas de estilismo del cabello - Nuestros expertos servicios de cepillado y alisado"
       }
     },
     {
       "label": "Cortes",
-      "url": "servicios/cortes",
+      "url": "servicios/cortes/",
       "image": {
         "src": "./../../images/servicios/cortes.png",
-        "alt": "c"
+        "alt": "Servicios de Corte de Pelo Precisos - Confíe en Nuestros Estilistas Expertos en Nik Salon para un Corte de Pelo Perfecto"
       }
     },
     {
       "label": "Depilaciones",
-      "url": "servicios/depilaciones",
+      "url": "servicios/depilaciones/",
       "image": {
         "src": "./../../images/servicios/depilaciones.png",
-        "alt": "d"
+        "alt": "Experimente un lujoso servicio de depilación con cera en nuestra habitación privada - Nik Salon tiene las mejores soluciones para sus necesidades de belleza"
       }
     },
     {
       "label": "Maquillaje",
-      "url": "servicios/maquillaje",
+      "url": "servicios/maquillaje/",
       "image": {
         "src": "./../../images/servicios/maquillaje.png",
-        "alt": "g"
+        "alt": "Transforme su apariencia con nuestros servicios de maquillaje experto"
       }
     },
     {
       "label": "Mechas",
-      "url": "servicios/mechas",
+      "url": "servicios/mechas/",
       "image": {
         "src": "./../../images/servicios/mechas.png",
-        "alt": "h"
+        "alt": "Obtenga un nuevo y impresionante look con nuestros servicios profesionales de mechas en el cabello"
       }
     },
     {
       "label": "Nail Bar",
-      "url": "servicios/nail-bar",
+      "url": "servicios/nail-bar/",
       "image": {
         "src": "./../../images/servicios/nail-bar.png",
-        "alt": "j"
+        "alt": "Visita nuestra hermosa barra de uñas y elige entre las últimas tendencias y diseños de colores de uñas - Nik Salon es tu destino de belleza de una sola parada."
       }
     },
     {
       "label": "Peinados",
-      "url": "servicios/peinados",
+      "url": "servicios/peinados/",
       "image": {
         "src": "./../../images/servicios/peinados.png",
-        "alt": "k"
+        "alt": "Encuentra tu estilo de cabello perfecto con nuestros servicios completos de peinado - confía en nuestros estilistas experimentados en Nik Salon para ayudarte a lucir lo mejor posible."
       }
     },
     {
       "label": "Tintes",
-      "url": "servicios/tintes",
+      "url": "servicios/tintes/",
       "image": {
         "src": "./../../images/servicios/tintes.png",
-        "alt": "l"
+        "alt": "Consigue el color de cabello perfecto para complementar tu estilo con los servicios expertos de coloración de cabello de Nik Salon"
       }
     }
   ]

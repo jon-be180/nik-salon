@@ -3,7 +3,7 @@ title: "Peinados"
 description: "Transform your hair with our expert styling services. From haircuts and highlights to bridal hairstyles and hair treatments, our experienced professionals will help you achieve the look you've been dreaming of. Schedule a hair consultation today at our top-rated salon and experience the best hair care services in town!"
 date: "2021-05-28"
 banner:
-  src: "../../images/servicios/haircuts.jpg"
+  src: "../../images/servicios/peinados.png"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:

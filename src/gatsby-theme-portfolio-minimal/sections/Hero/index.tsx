@@ -31,11 +31,6 @@ export function HeroSection(props: PageSection): React.ReactElement {
       </video>
       <div className={classes.HeroContainer}>
         <Section anchor={props.sectionId} additionalClasses={[classes.Hero]}>
-          <div className={classes.Intro}>
-            {data.intro && (
-              <span className={classes.ImagePrefix}>{data.intro}</span>
-            )}
-          </div>
           <h1 className={classes.Title}>{data.title}</h1>
           <h2 className={classes.Subtitle}>
             {data.subtitle.prefix}

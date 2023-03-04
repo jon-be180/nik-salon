@@ -40,6 +40,8 @@ export function Seo(props: SeoProps): React.ReactElement {
       {thumbnailUrl && <meta property="og:image" content={thumbnailUrl} />}
       <meta property="og:description" content={siteMetadata.description} />
       <meta property="og:type" content="website" />
+      <meta property="og:locale" content="es_GT" />
+
       <meta property="twitter:card" content="summary" />
       <meta property="twitter:creator" content={siteMetadata.author} />
       <meta property="twitter:title" content={siteMetadata.title} />

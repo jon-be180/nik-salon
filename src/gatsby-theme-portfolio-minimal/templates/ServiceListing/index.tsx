@@ -33,6 +33,20 @@ export default function ServiceListingTemplate(
       <Page>
         <SpacerHeroSection />
         <Section anchor="articleListing" heading="Nuestros Servicios">
+          <p>
+            ¡Bienvenido a nuestro exclusivo salón! Ofrecemos una amplia gama de
+            servicios excepcionales para ayudarte a lograr el look perfecto.
+            Nuestro experimentado personal está dedicado a brindar tratamientos
+            de alta calidad que se adaptan a tus necesidades únicas. Desde
+            cortes de cabello hasta tratamientos faciales, depilación y
+            maquillaje, ofrecemos todo lo que necesitas para lucir y sentirte lo
+            mejor posible. Utilizamos solo productos de la más alta calidad y
+            nos mantenemos al día con las últimas tendencias y técnicas para
+            asegurarnos de que recibas el mejor servicio posible. Ven a
+            visitarnos hoy y experimenta lo último en belleza y relajación.
+            Reserva tu cita ahora y prepárate para disfrutar de un merecido
+            mimo.
+          </p>
           <div className={classes.Listing}>
             {articles.slice(0, shownArticlesNumber).map((article, key) => {
               return (

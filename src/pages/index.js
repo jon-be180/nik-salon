@@ -21,7 +21,7 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="sobre" heading="Sobre Nosotras" />
         <ReviewsSection sectionId="reseñas" heading="Reseñas de clientes" />
-        <ServiceBoxesSection sectionId="servicios" heading="Servicios" />
+        <ServiceBoxesSection sectionId="servicios" heading="Nuestros servicios de belleza" />
         <ContactSection sectionId="contacto" heading="Reserva Ahora" />
         <GoogleMap/>
       </Page>

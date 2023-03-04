@@ -3,7 +3,7 @@ title: "Maquillaje"
 description: "Discover the art of makeup at our salon! Our team of skilled makeup artists offers a range of services, including bridal makeup, airbrush makeup, eyelash extensions, and more. From natural looks to full-face glam, we'll help you achieve your desired look for any occasion. Visit us today to experience the ultimate in beauty services"
 date: "2021-05-28"
 banner:
-  src: "../../images/servicios/haircuts.jpg"
+  src: "../../images/servicios/maquillaje.png"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:

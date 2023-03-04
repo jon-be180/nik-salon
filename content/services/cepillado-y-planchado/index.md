@@ -3,7 +3,7 @@ title: "Cepillado & Placnchado"
 description: "Discover the benefits of blowdry and straightening services offered at our salon. Transform your hair and achieve a perfect look with our professional hairstyling. Learn hairstyling tips and maintenance techniques, and check out before-and-after photos and client testimonials. Book your appointment now and experience the difference a good hair day can make"
 date: "2022-05-28"
 banner:
-  src: "./../../images/servicios/cepilado-y-planchado.png"
+  src: "./../../images/servicios/cepillado-y-planchado.png"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:

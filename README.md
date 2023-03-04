@@ -18,51 +18,32 @@ marelin wants to re-shoot it afer changing some things in the shop
 some of the clips in the video are out of focus
 still not sure about some of the colours
 shortening the pan clip to remove the coke bottle probably messed up the sound sync
-strip audio from the intro video for the website
 
 # pre-live TODO
 
+edit the image of peinados as it includes marelins face and a coke bottle
+balayage image needs to be replaced, need marelin or gaby to help as i dont have content
+services page has missing images and no intro text
 better page titles
-use seominion for opengraph checking of each apges author, business markup etc
-meta description is 6 characters too long than 150
-mobile responseive for the heading doesnt look good at all
-no canonical or base or robots or hrefland fields in the header
-switch hero intro to use title tags, h1, h2 missing - many h3
+schema.org business markup - https://schema.org/BeautySalon
 blog listing page lacks h1, title and meta tags - add a block of text to explain what the page is for
 blog section needs content and images
-lots of erros in the console about gatsbyimage, but where?
 fully use spanish
-section/coooontact is still about and might be broken?
-ensure all contact details are consistant on the site
 ensure images are on content pages
 beter mobile responsive designs, tablet, portrait, landscape etc
-cant pass classname into the animation for hero background image, do i need to do gatsby clean??? no idea! - why do i need this again?
 add AI content to each service
-add more animations to make it look pretty, add parallax
-look at using some stock images for whatever i dont have
-add images to services on home page using the taken photos
-contact form service from who
+1 last services picture needed, for balayage (hair color gradient)
 CTA on each searvice page needs to work smoothly, make into a component - i think i have changed the css enough to make this easy
 
 # After First Live Release TODO
 
-setup google analytics
+sitemap.xml 301 rediect in cloudflare to sitemap-index.xml
+confirm working google analytics
 facebook key - need marelin to login to the business facebook account
 google map api key - need marelin and her business card
 setup google search console
 nightwatch.io for rank monitoring
 spamzilla to possibly buy expired old relevant domains for easy backlinks
-
-# Images TODO
-
-take pictures for each service, missing
-
-- balayage
-- tintes
-- mechas
-- maqullaje
-- cepilado y planchado
-- depilacions
 
 ## Tasks for Marelin
 
@@ -158,14 +139,14 @@ use a celebrity name
 
 # SERVICES, taken from the "menu"
 
-balayage - gradient colour
-cepillado y planchado - brushing and straightening
-cortes - cutting
-depilaciones - waxing
-maquillaje - make-up
-mechas - tints
-nail-bar - nail bar
-peinados - hairstyles
+balayage - gradient colour picture TODO
+cepillado y planchado - brushing and straightening DONE
+cortes - cutting DONE
+depilaciones - waxing DONE
+maquillaje - make-up TODO
+mechas - tints, hilights
+nail-bar - nail bar DONE
+peinados - hairstyles DONE
 tintes, color completo - non-natural whole hair, full colour, natural
 trataimientos - treatments GONE
 keratina inoar - inar keratin GONE
@@ -223,6 +204,7 @@ list them on the about page
   when launching, dont expect hard keywords to rank well, find easy ones then focus on those getting more general
   keyword golden ratio
   check monthly traffic average per day, target new content that uses that daily traffic on a monthly basis to build up the "basement"
+- lsi keywords, gramatical similies
 
 # competitors:
 

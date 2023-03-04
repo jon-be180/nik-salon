@@ -5,14 +5,15 @@ import {
   Seo,
   Section
 } from "gatsby-theme-portfolio-minimal";
+
 import { StaticImage } from "gatsby-plugin-image"
-import { SpacerHeroSection} from '../sections/SpacerHero';
 
 import '@fontsource/halant'
 
 import GoogleMap from '../components/GoogleMap'
 
 import { ReviewsSection } from "../sections/Reviews"
+import { SpacerHeroSection} from '../sections/SpacerHero';
 
 export default function SobreNosotrosPage() {
   return (

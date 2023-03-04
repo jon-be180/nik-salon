@@ -70,5 +70,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://niksalon.com.gt`,
+        stripQueryString: true,
+      },
+    },
   ]
 };

@@ -2,7 +2,8 @@
   "siteMetadata": {
     "language": "es",
     "siteUrl": "https://niksalon.com.gt",
-    "title": "Nik Salon Beauty Studio - Cortes de cabello, estilos, colores y más",
+    "thumbnail": "../content/images/logo.png",
+    "title": "Nik Salón de Belleza - Cortes de cabello, estilos, colores y más",
     "titleTemplate": "%s · Nik Salon",
     "description": "En nuestro salón de belleza ofrecemos una amplia variedad de servicios de peluquería y estética para mejorar tu apariencia. Ven y descubre nuestras opciones",
     "author": "Nik Salon",
@@ -36,7 +37,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Reservar en Línea",
-        "url": "/reservar"
+        "url": "/reservar/"
       },
       "footer": [
       ]
