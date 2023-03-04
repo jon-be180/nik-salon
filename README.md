@@ -25,7 +25,7 @@ edit the image of peinados as it includes marelins face and a coke bottle
 balayage image needs to be replaced, need marelin or gaby to help as i dont have content
 services page has missing images and no intro text
 better page titles
-schema.org business markup - https://schema.org/BeautySalon
+schema.org business markup - https://schema.org/BeautySalon - added localbusiness from the genrator but not added for the other services or blog articles - https://technicalseo.com/tools/schema-markup-generator/
 blog listing page lacks h1, title and meta tags - add a block of text to explain what the page is for
 blog section needs content and images
 fully use spanish

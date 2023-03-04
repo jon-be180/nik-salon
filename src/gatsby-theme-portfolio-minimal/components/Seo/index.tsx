@@ -8,6 +8,7 @@ interface SeoProps {
   useTitleTemplate?: boolean;
   noIndex?: boolean;
   description?: string;
+  schemaMarkup?: string;
 }
 
 export function Seo(props: SeoProps): React.ReactElement {
@@ -46,6 +47,12 @@ export function Seo(props: SeoProps): React.ReactElement {
       <meta property="twitter:creator" content={siteMetadata.author} />
       <meta property="twitter:title" content={siteMetadata.title} />
       <meta property="twitter:description" content={siteMetadata.description} />
+
+      {siteMetadata.schemaMarkup && (
+        <script type="application/ld+json">
+          {JSON.stringify(siteMetadata.schemaMarkup)}
+        </script>
+      )}
     </Helmet>
   );
 }
