@@ -7,19 +7,9 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Hair tinting"
-  - "Professional hair tinting"
-  - "Permanent hair tint"
-  - "Temporary hair tint"
-  - "Natural hair tint"
-  - "Ammonia-free hair tint"
-  - "Expert hair tinting"
-  - "Latest hair tinting trends"
-  - "Affordable hair tinting"
-  - "Trusted hair tinting company"
+  - "not used"
 ---
 
 # Tinting: Give Your Hair a Bold and Beautiful Makeover

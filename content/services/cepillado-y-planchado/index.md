@@ -7,18 +7,9 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "blow dry and straightening"
+  - "not used"
 keywords:
-  - "Blowdry services"
-  - "Straightening services"
-  - "Keratin treatment"
-  - "Chemical straightening"
-  - "Hair smoothing"
-  - "Hair straightening"
-  - "Professional hairstyling"
-  - "Hair care tips"
-  - "Silk pillowcase"
-  - "Heat protectant spray"
+  - "not used"
 ---
 
 # Blow Dry and Hair Straightening Services: Achieve Your Dream Look

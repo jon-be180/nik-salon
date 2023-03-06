@@ -7,28 +7,9 @@ banner:
   alt: "Expert Hair Coloring: Custom, Trendy, and Timeless Looks at Nik Salon"
   caption: "Photo showing colored hair"
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Full hair color"
-  - "Hair color treatment"
-  - "Professional hair color"
-  - "Hair color salon"
-  - "Hair colorist"
-  - "Hair color appointment"
-  - "Hair dyeing services"
-  - "Full hair color package"
-  - "Hair color consultation"
-  - "Hair color ideas"
-  - "Trendy hair color"
-  - "Hair color transformation"
-  - "Best hair color"
-  - "Custom hair color"
-  - "Permanent hair color"
-  - "Semi-permanent hair color"
-  - "Temporary hair color"
-  - "Hair color for men"
-  - "Highlights and hair color"
+  - "not used"
 ---
 
 # Full Hair Coloring: What You Need to Know

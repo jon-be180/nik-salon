@@ -21,23 +21,19 @@ shortening the pan clip to remove the coke bottle probably messed up the sound s
 
 # pre-live TODO
 
-edit the image of peinados as it includes marelins face and a coke bottle
 balayage image needs to be replaced, need marelin or gaby to help as i dont have content
-services page has missing images and no intro text
-better page titles
-schema.org business markup - https://schema.org/BeautySalon - added localbusiness from the genrator but not added for the other services or blog articles - https://technicalseo.com/tools/schema-markup-generator/
-blog listing page lacks h1, title and meta tags - add a block of text to explain what the page is for
-blog section needs content and images
-fully use spanish
-ensure images are on content pages
+
+blog listing page lacks h1, title and meta tags, each listing item isnt well designed
+need a few blog articles before releasing
+fully use spanish on the website, service articles, about and blog articles
+ensure images are on service/blog pages to make them more interesting to read
 beter mobile responsive designs, tablet, portrait, landscape etc
-add AI content to each service
-1 last services picture needed, for balayage (hair color gradient)
 CTA on each searvice page needs to work smoothly, make into a component - i think i have changed the css enough to make this easy
 
 # After First Live Release TODO
 
-sitemap.xml 301 rediect in cloudflare to sitemap-index.xml
+setup webmaster tools - marelin
+test sitemap can be found on google analytics and google webmaster tools
 confirm working google analytics
 facebook key - need marelin to login to the business facebook account
 google map api key - need marelin and her business card
@@ -48,13 +44,17 @@ spamzilla to possibly buy expired old relevant domains for easy backlinks
 ## Tasks for Marelin
 
 - ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
-- decide on what booking platform to use, if any
+- setup google webmaster tools
+- setup google maps
+- new balayage image neeeded
+- setup facebook chat, if requeired
 - give me access to the google account for creating the business listing
 - give me access to the google account for managing analytics and search console - im doing that now...
 - she needs to approve the hola@niksalon.com.gt email i made for her
 
 # Phase 2:
 
+schema.org business markup - https://schema.org/BeautySalon - added localbusiness from the genrator but not added for the other services or blog articles - https://technicalseo.com/tools/schema-markup-generator/
 put back in the privacy footer link - { "label": "Privacy", "url": "/privacy" }
 get word count of competing companies and articles using
 use short paragraphs for content so its easy to read

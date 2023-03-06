@@ -76,10 +76,27 @@ export default function ArticleListingTemplate(
 
   return (
     <>
-      <Seo title="Artículos" useTitleTemplate={true} />
+      <Seo
+        title="Blog de belleza y estilo"
+        description="Descubre los mejores consejos y tendencias de belleza en nuestro blog. Todo lo que necesitas saber para lucir espectacular en Nik Salon."
+        useTitleTemplate={true}
+      />
       <Page>
         <SpacerHeroSection />
-        <Section anchor="articleListing" heading="Artículos">
+        <Section
+          anchor="articleListing"
+          heading="Últimos Artículos de Belleza en nuestro Blog"
+          isMainHeading={true}
+        >
+          <p>
+            Bienvenidos a nuestro blog de belleza, donde compartimos nuestra
+            experiencia y pasión por todo lo relacionado con la belleza. Desde
+            las últimas tendencias y consejos hasta reseñas de productos y
+            experiencias personales, abarcamos una variedad de temas para
+            ayudarte a lucir y sentirte mejor. Explora nuestro listado de blogs
+            a continuación para ver una selección de nuestras publicaciones más
+            populares.
+          </p>
           <div className={classes.Filter}>
             Seleccionar categorías para filtrar artículos
             <Slider additionalClasses={[classes.Options]}>

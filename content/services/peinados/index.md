@@ -7,24 +7,9 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Hair salon"
-  - "Haircuts"
-  - "Hairstyles"
-  - "Hair color"
-  - "Hair highlights"
-  - "Hair extensions"
-  - "Hair treatments"
-  - "Blowouts"
-  - "Updos"
-  - "Bridal hairstyles"
-  - "Men's haircuts"
-  - "Women's haircuts"
-  - "Hair styling"
-  - "Hair care"
-  - "Hair consultation"
+  - "not used"
 ---
 
 # Transform Your Look with Our Expert Hair Styling Services

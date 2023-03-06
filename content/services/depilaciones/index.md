@@ -7,28 +7,9 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Waxing"
-  - "Hair removal"
-  - "Beauty services"
-  - "Depilation"
-  - "Epilation"
-  - "Sugaring"
-  - "Threading"
-  - "Electrolysis"
-  - "Laser hair removal"
-  - "Intimate waxing"
-  - "Body waxing"
-  - "Facial waxing"
-  - "Leg waxing"
-  - "Arm waxing"
-  - "Bikini waxing"
-  - "Permanent hair reduction"
-  - "Professional hair removal"
-  - "Painless hair removal"
-  - "Silky smooth skin"
+  - "not used"
 ---
 
 # Discover Silky Smooth Skin with Our Waxing Services

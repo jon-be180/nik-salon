@@ -7,24 +7,9 @@ banner:
   alt: "Woman with stunning tinted hair"
   caption: "Transform your hair with our expert hair tinting services. Book your appointment now at Nik Salon and experience the difference."
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Color Melt Hair Dye"
-  - "Color Melt Technique"
-  - "How to Achieve a Color Melt Look"
-  - "Balayage Color Melt"
-  - "Ombre Color Melt"
-  - "Hair Coloring Tips"
-  - "DIY Color Melt"
-  - "Professional Color Melt"
-  - "Best Hair Dye for Color Melt"
-  - "Color Melt Hair Inspiration"
-  - "Transitioning Hair Colors"
-  - "Multidimensional Hair Color"
-  - "Gradual Hair Color Blend"
-  - "Root Smudge Color Melt"
-  - "Maintenance for Color Melt Hair"
+  - "not used"
 ---
 
 # Get a Stunning Color Melt Hair Dye at Our Salon

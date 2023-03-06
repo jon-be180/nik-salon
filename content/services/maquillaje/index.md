@@ -7,24 +7,9 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Makeup application"
-  - "Bridal makeup"
-  - "Special occasion makeup"
-  - "Airbrush makeup"
-  - "Contouring and highlighting"
-  - "Eyelash extensions"
-  - "Brow shaping and tinting"
-  - "Lipstick application"
-  - "Makeup tutorials"
-  - "Full-face makeup"
-  - "Glam makeup"
-  - "Natural makeup"
-  - "Editorial makeup"
-  - "Smokey eye makeup"
-  - "Makeup for photoshoots"
+  - "not used"
 ---
 
 # Discover the Best Makeup Services Offered by Our Beauty Salon

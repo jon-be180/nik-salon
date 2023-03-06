@@ -32,15 +32,6 @@ export default function ServiceTemplate(
       <Page>
         <SpacerHeroSection />
         <article className={classes.Article}>
-          <div className={classes.Breadcrumb}>
-            <Link
-              to={props.pageContext.listingPagePath}
-              title="Volver a Servicios"
-            >
-              <span className={classes.BackArrow}>&#10094;</span>
-              Todos los Servicios
-            </Link>
-          </div>
           <section className={classes.Header}>
             <h1>{article.title}</h1>
           </section>

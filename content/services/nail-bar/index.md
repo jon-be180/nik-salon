@@ -1,38 +1,16 @@
 ---
-title: "Nail Bar"
-description: "This description will be used for the article listing and search results on Google."
+title: "Nail Services at Nik"
+description: "Descubre lo último en cuidado de uñas en nuestro salón de belleza con servicios de barra de uñas de lujo. ¡Reserva ahora!"
 date: "2023-02-28"
 banner:
   src: "./../../images/servicios/nail-bar.png"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  alt: "Esmaltes de uñas de diferentes colores organizados en una estantería en nuestro salón de belleza. Elige entre una variedad de tonos para complementar tu estilo y estado de ánimo."
+  caption: "<strong>Encuentra tu tono ideal</strong> en nuestra colección de <em>esmaltes</em>. ¡Explora hoy!"
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "not used"
 keywords:
-  - "Nail services"
-  - "Manicure"
-  - "Pedicure"
-  - "Gel nails"
-  - "Acrylic nails"
-  - "Nail art"
-  - "Nail design"
-  - "Nail polish"
-  - "Nail extensions"
-  - "Nail care"
-  - "Salon services"
-  - "Beauty services"
-  - "Professional nail technicians"
-  - "Nail treatments"
-  - "Nail maintenance"
-  - "Nail spa"
-  - "Nail grooming"
-  - "Nail enhancements"
-  - "Nail fashion"
-  - "Nail accessories"
+  - "not used"
 ---
-
-# Nail Services at Nik
 
 Welcome to Nik, where we provide the best nail services in town! Our team of professional nail technicians is dedicated to making your hands and feet look beautiful and well-cared for. Whether you want a classic manicure or pedicure, or you're looking for something more trendy and unique, we've got you covered.
 
@@ -59,6 +37,8 @@ Relax and rejuvenate your hands with our manicure services. Our classic and spa 
 ### Pedicures
 
 Pamper your feet with our pedicure services. We offer classic and spa pedicures that include a soak, exfoliation, massage, and polish, leaving your feet soft, smooth, and refreshed.
+
+#### [Book Now](/reservar)
 
 ## How long does it take?
 

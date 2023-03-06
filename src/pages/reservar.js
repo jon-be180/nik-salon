@@ -16,10 +16,10 @@ import * as classes from './reservar.module.css';
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Reserva tu cita de belleza hoy" useTitleTemplate={true} />
+      <Seo title="Reserva tu cita de belleza hoy" description="Agenda tu cita en Nik Salon para lucir y sentirte mejor con nuestros tratamientos de belleza personalizados. ¡Reserva ahora y disfruta!" useTitleTemplate={true} />
       <Page>
         <SpacerHeroSection/>
-        <Section anchor="" heading="Reserva Tu Cita de Belleza Hoy en Nik Salon">
+        <Section anchor="" heading="Reserva Tu Cita de Belleza Hoy en Nik Salon" isMainHeading={true}>
         <p>No esperes más para regalarte la belleza y el relax que mereces. ¡Reserva tu cita hoy mismo en Nik Salon! Nuestro equipo de profesionales estará encantado de ayudarte a conseguir el look perfecto y la máxima relajación.</p>
         <p>Contacta con nosotros hoy mismo para reservar tu cita. ¡Te esperamos en Nik Salon!</p>
         </Section>

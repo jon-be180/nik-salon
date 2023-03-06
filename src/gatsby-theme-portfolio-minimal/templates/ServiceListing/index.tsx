@@ -29,10 +29,18 @@ export default function ServiceListingTemplate(
 
   return (
     <>
-      <Seo title="Nuestros Servicios" useTitleTemplate={true} />
+      <Seo
+        title="Consientete con Nuestros Servicios de Belleza"
+        description="Descubre nuestros tratamientos personalizados en Nik Salon. Desde cabello y maquillaje, hasta uñas, faciales y más. ¡Agenda ahora y renueva tu look!"
+        useTitleTemplate={true}
+      />
       <Page>
         <SpacerHeroSection />
-        <Section anchor="articleListing" heading="Nuestros Servicios">
+        <Section
+          anchor="articleListing"
+          heading="Nuestros servicios de belleza"
+          isMainHeading={true}
+        >
           <p>
             ¡Bienvenido a nuestro exclusivo salón! Ofrecemos una amplia gama de
             servicios excepcionales para ayudarte a lograr el look perfecto.
