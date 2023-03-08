@@ -44,6 +44,8 @@ Smokey eye makeup is a classic look that is perfect for any occasion. Our skille
 
 At our beauty salon, we understand the importance of looking and feeling your best on your wedding day or other special occasions. That's why we offer a range of bridal and special occasion makeup services. Our experienced makeup artists will work with you to create a customized look that will enhance your natural beauty and make you feel confident and beautiful.
 
+#### [Book Now](/reservar)
+
 ## Lipstick Application
 
 Our salon offers a range of lipstick application services, including lip liner, lip gloss, and matte lipstick. Our skilled makeup artists will work with you to create the perfect lip look that complements your makeup and personal style.

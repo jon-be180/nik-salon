@@ -48,6 +48,8 @@ Not sure which hair styling service is right for you? Our experienced profession
 
 Our hair styling professionals are experienced and passionate about their craft. We stay up-to-date with the latest trends and techniques to ensure that you receive the best possible service.
 
+#### [Book Now](/reservar)
+
 ### High-Quality Products
 
 We only use the highest-quality, salon-grade products in our hair styling services, to ensure that your hair looks and feels its best.

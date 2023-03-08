@@ -38,7 +38,7 @@ export default function ArticleTemplate(
               title="Back To Article Listing"
             >
               <span className={classes.BackArrow}>&#10094;</span>
-              All Articles
+              Todos los artículos
             </Link>
           </div>
           <section className={classes.Header}>
@@ -46,12 +46,7 @@ export default function ArticleTemplate(
               {article.categories.join(" / ")}
             </span>
             <h1>{article.title}</h1>
-            <div className={classes.Details}>
-              {article.date}
-              <span className={classes.ReadingTime}>
-                {article.readingTime.text}
-              </span>
-            </div>
+            <div className={classes.Details}>{article.date}</div>
           </section>
           {article.banner && article.banner.src && (
             <section className={classes.Banner}>
@@ -73,17 +68,6 @@ export default function ArticleTemplate(
               className={classes.Content}
               dangerouslySetInnerHTML={{ __html: article.body }}
             />
-            {article.keywords &&
-              article.keywords.map((keyword, key) => {
-                return (
-                  <span key={key} className={classes.Keyword}>
-                    {keyword}
-                  </span>
-                );
-              })}
-          </section>
-          <section className={classes.Footer}>
-            <AuthorSnippet />
           </section>
         </article>
       </Page>

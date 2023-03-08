@@ -40,6 +40,8 @@ A typical hair tinting appointment takes around 1-2 hours. Of course, the exact 
 
 When you come in for a hair tint, your stylist will chat with you to get a feel for what you're looking for. They'll assess your hair type and texture and recommend the best tinting solution for you. Then, they'll get to work adding color to your hair and processing it to achieve your desired result. Finally, they'll rinse and condition your hair to leave it looking fabulous.
 
+#### [Book Now](/reservar)
+
 ## Gray Hair? No Problem!
 
 Tinting is a great way to hide gray hair and keep your locks looking youthful. Our stylists will work with you to find the perfect shade to blend in with your natural color.

@@ -20,6 +20,8 @@ Are you looking to transform your hair with a new, vibrant color? Full hair colo
 
 Full hair coloring is a comprehensive hair coloring service that involves dyeing your entire head of hair. This service is ideal for anyone looking to change their hair color dramatically or cover up grays. Full hair coloring typically involves a consultation with a professional hair colorist to determine the best color for your hair type and skin tone.
 
+#### [Book Now](/reservar)
+
 ## Benefits of Full Hair Coloring
 
 - Complete transformation: Full hair coloring is an excellent way to achieve a completely new look that can boost your confidence and make you feel brand new.

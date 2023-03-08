@@ -42,6 +42,8 @@ Sugaring is a form of hair removal that uses a sticky, sugar-based paste to remo
 
 Elevate your beauty routine and enjoy silky smooth skin all year round with our depilation and epilation services. Our team of experts will help you choose the right method for your skin type and hair growth, whether it's sugaring, waxing, or laser hair removal. With our services, you can achieve smooth, hair-free skin that lasts.
 
+#### [Book Now](/reservar)
+
 ## What are the benefits of intimate waxing?
 
 Intimate waxing has become a popular choice for many women looking for a hair-free, confident look. This service can improve the appearance and health of your intimate areas by removing hair, reducing irritation, and preventing ingrown hairs. Our beauty technicians are highly trained in the latest intimate waxing techniques

@@ -16,6 +16,8 @@ keywords:
 
 Are you tired of spending hours blow drying and straightening your hair at home? Do you want to achieve a sleek and professional hairstyle without the hassle? Our salon offers a range of blow dry and hair straightening services to help you achieve your dream look.
 
+#### [Book Now](/reservar)
+
 ## Blow Dry Services
 
 Our experienced stylists offer a range of blow dry services to help you achieve the perfect look for any occasion. Whether you want a voluminous blowout, loose waves, or a sleek and straight style, we have the expertise and tools to create a look that perfectly suits your hair type and personal style.

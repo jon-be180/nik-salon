@@ -30,6 +30,8 @@ During the appointment, we'll carefully apply the color melt technique to your h
 
 Before your color melt hair dye appointment, there are a few things you can do to prepare. We recommend that you come to the salon with clean, dry hair. This will help the color to adhere better to your hair. We'll also perform a consultation to discuss your goals and preferences. We'll also perform a patch test to ensure that you don't have an allergic reaction to the products we'll use.
 
+#### [Book Now](/reservar)
+
 ## During the Appointment
 
 During the appointment, we'll guide you through each step of the color melt hair dye process. We'll carefully apply the colors to your hair, blending them together to create a natural-looking effect. We'll also use techniques like balayage and ombre to create a multidimensional look.
