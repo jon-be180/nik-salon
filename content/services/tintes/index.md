@@ -1,56 +1,56 @@
 ---
 title: "Tintes"
-description: "Transform your look with a full hair coloring service from our expert colorists. From trendy and custom hair color to permanent and semi-permanent options, we offer a range of professional hair coloring treatments to suit your needs. Book a hair color appointment today and discover the best hair color ideas for your unique style."
+description: "TTransforma tu look con nuestros servicios de tintes profesionales. ¡Agenda hoy y luce un cabello hermoso y vibrante!"
 date: "2021-05-28"
 banner:
   src: "../../images/servicios/tintes.png"
-  alt: "Expert Hair Coloring: Custom, Trendy, and Timeless Looks at Nik Salon"
-  caption: "Photo showing colored hair"
+  alt: "Variedad de productos y colores para el cabello."
+  caption: "Encuentra la gama perfecta de tintes para el cabello en nuestro salón de belleza."
 categories:
   - "not used"
 keywords:
   - "not used"
 ---
 
-# Full Hair Coloring: What You Need to Know
+# Tintes de Cabello Completo: Lo que Necesitas Saber
 
-Are you looking to transform your hair with a new, vibrant color? Full hair coloring could be just the service you need. Here's what you should know before booking your appointment:
+¿Estás buscando transformar tu cabello con un color nuevo y vibrante? El tinte de cabello completo podría ser justo el servicio que necesitas. Aquí está lo que debes saber antes de reservar tu cita:
 
-## What is Full Hair Coloring?
+## ¿Qué es el Tinte de Cabello Completo?
 
-Full hair coloring is a comprehensive hair coloring service that involves dyeing your entire head of hair. This service is ideal for anyone looking to change their hair color dramatically or cover up grays. Full hair coloring typically involves a consultation with a professional hair colorist to determine the best color for your hair type and skin tone.
+El tinte de cabello completo es un servicio integral de coloración que implica teñir toda tu cabeza de cabello. Este servicio es ideal para cualquiera que desee cambiar drásticamente el color de su cabello o cubrir las canas. El tinte de cabello completo generalmente incluye una consulta con un colorista profesional para determinar el mejor color para tu tipo de cabello y tono de piel.
 
-#### [Book Now](/reservar)
+#### [Reservar Ahora](/reservar)
 
-## Benefits of Full Hair Coloring
+## Beneficios del Tinte de Cabello Completo
 
-- Complete transformation: Full hair coloring is an excellent way to achieve a completely new look that can boost your confidence and make you feel brand new.
-- Long-lasting results: Full hair coloring uses permanent hair dye, which means your new color will last for several weeks before it starts to fade.
-- Customization: A professional hair colorist can help you choose a color that complements your skin tone, features, and personal style.
-- Gray coverage: If you're tired of seeing gray hair, full hair coloring can provide complete coverage.
+- Transformación completa: El tinte de cabello completo es una excelente manera de lograr un look completamente nuevo que puede aumentar tu confianza y hacerte sentir renovado.
+- Resultados duraderos: El tinte de cabello completo utiliza tinte permanente, lo que significa que tu nuevo color durará varias semanas antes de comenzar a desvanecerse.
+- Personalización: Un colorista profesional puede ayudarte a elegir un color que complemente tu tono de piel, características y estilo personal.
+- Cobertura de canas: Si estás cansado de ver cabellos grises, el tinte de cabello completo puede proporcionar una cobertura completa.
 
-## What to Expect During a Full Hair Coloring Appointment
+## Qué esperar durante una cita para un tinte de cabello completo
 
-When you arrive at the salon for your full hair coloring appointment, your hair colorist will likely begin by examining your hair and discussing your desired color. They may take a small sample of your hair to test the dye and ensure the color will turn out as expected.
+Cuando llegues al salón para tu cita de tinte de cabello completo, es probable que tu colorista comience examinando tu cabello y discutiendo el color que deseas. Es posible que tomen una pequeña muestra de tu cabello para probar el tinte y asegurarse de que el color resulte como se esperaba.
 
-Next, they will apply the dye to your hair, section by section, and may leave it on for several minutes. Once the dye has set, your hair will be rinsed and styled. You can expect the entire process to take a few hours, depending on the length and thickness of your hair.
+A continuación, aplicarán el tinte a tu cabello, sección por sección, y puede que lo dejen actuar durante varios minutos. Una vez que el tinte haya tomado, enjuagarán tu cabello y lo peinarán. Puedes esperar que todo el proceso dure algunas horas, dependiendo de la longitud y el grosor de tu cabello.
 
-## Aftercare and Maintenance
+## Cuidados posteriores y mantenimiento
 
-After your full hair coloring appointment, it's important to take care of your newly dyed hair to ensure the color lasts as long as possible. Here are some tips for aftercare and maintenance:
+Después de su cita de tinte de cabello completo, es importante cuidar su cabello recién teñido para asegurar que el color dure tanto como sea posible. Aquí hay algunos consejos para el cuidado posterior y mantenimiento:
 
-- Use sulfate-free shampoo and conditioner to prevent your color from fading.
-- Avoid exposing your hair to excessive heat from styling tools, as this can also cause the color to fade.
-- Consider getting touch-up appointments every six to eight weeks to keep your color looking fresh and vibrant.
+Use champú y acondicionador sin sulfato para evitar que su color se desvanezca.
+Evite exponer su cabello a calor excesivo de herramientas de peinado, ya que esto también puede hacer que el color se desvanezca.
+Considere hacer citas de retoque cada seis a ocho semanas para mantener su color luciendo fresco y vibrante.
 
-## Complimentary Services
+## Servicios Complementarios
 
-Full hair coloring is just one of many services that beauty salons may offer. Some other complimentary services you might consider include:
+La coloración completa del cabello es solo uno de los muchos servicios que los salones de belleza pueden ofrecer. Algunos otros servicios complementarios que podrías considerar incluyen:
 
-- Haircuts and styling: After getting a new hair color, you may want to consider getting a haircut or styling to complement your new look.
-- Highlights and lowlights: If you're looking for a more subtle change, highlights and lowlights can add dimension and depth to your hair without completely changing the color.
-- Deep conditioning treatments: Coloring your hair can cause damage, so deep conditioning treatments can help keep your hair healthy and strong.
+Cortes y peinados: después de teñirte el cabello, es posible que desees considerar un corte o peinado para complementar tu nuevo look.
+Luces y sombras: si buscas un cambio más sutil, las luces y sombras pueden agregar dimensión y profundidad a tu cabello sin cambiar completamente el color.
+Tratamientos de acondicionamiento profundo: teñir el cabello puede causar daño, por lo que los tratamientos de acondicionamiento profundo pueden ayudar a mantener tu cabello saludable y fuerte.
 
-## Ready to Get Your Hair Colored?
+## ¿Listo/a para cambiar el color de tu cabello?
 
-If you're ready to transform your hair with a full hair coloring service, contact us today to book an appointment with one of our professional hair colorists. Our team can help you choose the perfect color for your hair and give you the confidence boost you've been looking for. Don't wait, book your full hair coloring appointment today!
+Si estás listo/a para transformar tu cabello con un servicio completo de coloración, contáctanos hoy mismo para reservar una cita con uno de nuestros coloristas profesionales. Nuestro equipo puede ayudarte a elegir el color perfecto para tu cabello y darte el impulso de confianza que has estado buscando. ¡No esperes más, reserva tu cita para la coloración completa de cabello hoy mismo!

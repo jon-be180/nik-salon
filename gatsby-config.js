@@ -30,22 +30,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-facebook-customer-chat`, // doesnt work localhost
-      options: {
-        sdk: {
-          appId: 'your-app-id-a', // clear public folder and cache, its very sticky
-          xfbml: true,
-          status: true,
-          version: 'v2.7'
-        },
-        chat: {
-          pageId: 'your-page-id',
-          loggedInGreeting: 'Hi! How can I help you?',
-          loggedOutGreeting: 'Hi! How can I help you?',
-        }
-      },
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         // The unique name for each instance

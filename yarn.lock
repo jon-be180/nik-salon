@@ -1086,10 +1086,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fontsource/halant@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@fontsource/halant/-/halant-4.5.10.tgz#1e06e549fcb5bf364cca8ca40552c3b8e4262e21"
-  integrity sha512-J2my3CE0vwokB/HFcAFck3sRP1szJ6qzZODiMwbsuBiyd8cYLx1Ve7pkxyTiZTqvufWbyyMycUvz8EIBuWVhEg==
+"@fontsource/playfair-display@^4.5.13":
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/@fontsource/playfair-display/-/playfair-display-4.5.13.tgz#6024a7edaf4e492eeb2e57467a5a44eed00ad924"
+  integrity sha512-41yD3XW8jATcZO8E2U6Xe9MIaogPdjrGkC4ixNzAIdrR3BvLxXpeHU2xw3rwIq8aHhFUYwLnE6Lq+BWSTZZH9w==
 
 "@fontsource/roboto@^4.5.8":
   version "4.5.8"
@@ -3609,7 +3609,7 @@ common-path-prefix@^3.0.0:
   resolved "https://registry.yarnpkg.com/common-path-prefix/-/common-path-prefix-3.0.0.tgz#7d007a7e07c58c4b4d5f433131a19141b29f11e0"
   integrity sha512-QE33hToZseCH3jS0qN96O/bSh3kaw/h+Tq7ngyY9eWDUnTlTNUyqfqvCXioLe5Na5jFsL78ra/wuBU4iuEgd4w==
 
-common-tags@1.8.2, common-tags@^1.6.0, common-tags@^1.8.0, common-tags@^1.8.2:
+common-tags@1.8.2, common-tags@^1.8.0, common-tags@^1.8.2:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/common-tags/-/common-tags-1.8.2.tgz#94ebb3c076d26032745fd54face7f688ef5ac9c6"
   integrity sha512-gk/Z852D2Wtb//0I+kRFNKKE9dIIVirjoqPoA1wJU+XePVXZfGeBpk45+A1rKO4Q43prqWBNY/MiIeRLbPWUaA==
@@ -5409,13 +5409,6 @@ gatsby-plugin-canonical-urls@^5.7.0:
   integrity sha512-1GWv7O/MmRpvV+2PdTaHdbFYxiXoMPrOQHCra2Ri9iZBPtYbfQX7DXpJ9Ick6YwAgiVS7G5DrfCzQpIWFa1TBA==
   dependencies:
     "@babel/runtime" "^7.20.13"
-
-gatsby-plugin-facebook-customer-chat@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-facebook-customer-chat/-/gatsby-plugin-facebook-customer-chat-1.0.2.tgz#41ee617f2169564bc5cc5ec93bcb72b343b25422"
-  integrity sha512-geML3xjvsIw92rvBcAQZMPoNEdyt8BQuPGcE0xYjwlxI29Z0rvJvt5CJNn/wgztKn/gg1aYityX8OeSQAzRaqQ==
-  dependencies:
-    common-tags "^1.6.0"
 
 gatsby-plugin-fontawesome-css@^1.2.0:
   version "1.2.0"

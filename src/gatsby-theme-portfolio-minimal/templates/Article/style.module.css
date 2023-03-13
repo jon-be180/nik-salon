@@ -54,6 +54,26 @@
     color: var(--subtext-color);
 }
 
+.Content h4 a {
+    width: auto;
+    height: auto;
+    border-radius: var(--border-radius);
+    background: var(--button-color);
+    color: var(--button-text-color);
+    padding: 0.5rem 1.5rem;
+    transition: 20ms ease-out;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.Content h4 {
+    text-align: center;
+}
+
+.Content a {
+    text-decoration: underline;
+}
+
 .Article .Details {
     font-size: 0.875rem;
     letter-spacing: +0.5px;
@@ -122,4 +142,12 @@
     text-align: center;
     font-size: 0.875rem;
     color: var(--subtext-color);
+}
+
+@media (max-width: 768px) {
+    .Article .Banner {
+        float: none;
+        margin-left: 0;
+        width: 100%;
+    }
 }

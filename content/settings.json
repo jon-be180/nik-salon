@@ -29,7 +29,6 @@
     "navigation": {
       "header": [
         { "label": "Servicios", "url": "/servicios" },
-        { "label": "Sobre Nosotros", "url": "/sobre-nosotros" },
         { "label": "Blog",      "url": "/blog" },
         { "label": "Reseñas",   "url": "/#reseñas" },
         { "label": "Contacto",  "url": "/#contacto" }

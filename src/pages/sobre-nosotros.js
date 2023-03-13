@@ -8,7 +8,7 @@ import {
 
 import { StaticImage } from "gatsby-plugin-image"
 
-import '@fontsource/halant'
+import '@fontsource/playfair-display'
 
 import GoogleMap from '../components/GoogleMap'
 

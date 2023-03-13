@@ -1,36 +1,33 @@
 # Nik Salon, Guatemala
 
-This is a GatsbyJS website for Nik Salon.
+This is a GatsbyJS website for Nik Salon. All content comes from json and markdown.
 
 Requirements:
 
-- NodeJS v18.6.0
+- NodeJS v18.6.0 - it wont build on cloudflare pages
 - Gatsby-cli v5.4
 - Gatsby v5.4.2
 - Yarn
 
-Note: gatsby develop does not run on wsl, use powershell, git wont work on powershell so use wsl
-
-# Video TODO
-
-some of the clips have motion blur, edit or reshoot
-marelin wants to re-shoot it afer changing some things in the shop
-some of the clips in the video are out of focus
-still not sure about some of the colours
-shortening the pan clip to remove the coke bottle probably messed up the sound sync
+Note: gatsby develop does not run on wsl, use powershell, git wont work on powershell so use wsl...
 
 # pre-live TODO
 
-balayage image needs to be replaced, need marelin or gaby to help as i dont have content
+- ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
+- marelin to use copmany credit card to setup google maps api key, need niksalon.com.gt and nik-salonpages.dev to be approved
+- marelin to edit the booking categories, there is way too many
+- marelin to setup the business listing page and share access to my google account
 
-fully use spanish on the website, service articles, about and blog articles
-beter mobile responsive designs, tablet, portrait, landscape etc
-link blog artices to relevant service pages
-
-AI content detection needs to be reduced, i found rephrase to "Ray Bradbury" the scfi author then to repharse for more casual worked well - hmmm this is going to be very hard to fix. quillbot? ask it to fix itself
-"write the above content so that is is not detected as AI content by AI content detectors"
+Turn back on the about page
+finish the about page and translate it
+re-enable google maps and facebook, use git history for changes
 
 # After First Live Release TODO
+
+- give me access to the google account for creating the business listing
+- give me access to the google account for managing analytics and search console - im doing that now..
+- setup google webmaster tools
+- setup facebook chat, if required
 
 setup webmaster tools - marelin
 test sitemap can be found on google analytics and google webmaster tools
@@ -39,77 +36,67 @@ facebook key - need marelin to login to the business facebook account
 google map api key - need marelin and her business card
 setup google search console
 nightwatch.io for rank monitoring
-spamzilla to possibly buy expired old relevant domains for easy backlinks
-
-## Tasks for Marelin
-
-- ask marelin for a history of the company, just bulletpoints is enough to start then ai generate content for the about page
-- setup google webmaster tools
-- setup google maps
-- new balayage image neeeded
-- setup facebook chat, if requeired
-- give me access to the google account for creating the business listing
-- give me access to the google account for managing analytics and search console - im doing that now...
-- she needs to approve the hola@niksalon.com.gt email i made for her
+avoid AI content detection "write the above content so that is is not detected as AI content by AI content detectors"
 
 # Phase 2:
 
-schema.org business markup - https://schema.org/BeautySalon - added localbusiness from the genrator but not added for the other services or blog articles - https://technicalseo.com/tools/schema-markup-generator/
-put back in the privacy footer link - { "label": "Privacy", "url": "/privacy" }
-get word count of competing companies and articles using
-use short paragraphs for content so its easy to read
-ensure articles have a lot of images in them, esp after h1/h2
-include some callout designs for important text like the CTA
-include a yes/no goog/bad comparison table or other design using ticks and crosses etc
-use lists for breaking up the content
-ensure articles have keywords in the url, hyphens and keep them fairly short
-add related links to other pages into the content
-keyword optimisation for service pages, answerthepublic
-screamingfrog free ediion will work well
-twitter and tweet about the new blog article
-research more keywords to target for the blog area
-5 in-links for each page, so for blog, 1 on the listing and 4 from other pages, screamingfrog "inlinks" section can show thise
-rank tracker system, serpfox has some free options
-compare article types for targeted keywords, read headings and writing style
-use content score serferscontenteditor
-nlp-friendly answers
-dedicated about page, about the owner and staff, but need input from marelin about the company history and aims, pictures of the staff too?
-ensure pages have schema markup - test site against structured data
-can midjourney be used to create interesting article heading images? probably...
-ecommerce
-re-use the data from /content/services?
-advertising
-backlinks, find places for backlinks, use ahrefs/ubersuggest backlink report to email who linked to #1 on google, get their hunter.io email
-gmass will help to send bulk email, send followups to a pitch, ask for a guest post
-more content set to release regularily, weekly
-link to latest article on home page
-link to most popular articles from the home page
-link to related articles from each service page
-setup a process to ensure articles are optimal and quick to make
-reference products within the blog
-guest blogging with other websites
-add additional social medias
-track conversions for the ecommerce system
-add to Bing Places
-to become a topical authority you need a wide coverage of content, aiming for product sales and enquiries
-1000 articles or more, 5 per day
-use sitemap of competitors
-create a map of content topics
-using answerthepublic
-then google the keyword and see "people also ask" - seo minion download these questions
-autosuggest "does" "what" "how"...
-related searches from google
-finish the waze icon link in the footer
-ask chatgpt for topics "semantically releavant and unique"
-then ask it to give me variations of...
-keyword cupid - paid - can goup the topics, chatgpt too?
-create article outlines with headings so it will generate a well formatted article
-article length?
-use jasper to create each document section
-grammarly can help to avoid ai detectors
-then human edit and review
-optimize for seo when the article gets to page 2
-use "surfer" to help get higher on google - paid tool
+- new balayage image neeeded, ifve replaced with a free one but a realistic one would be even better
+  schema.org business markup - https://schema.org/BeautySalon - added localbusiness from the genrator but not added for the other services or blog articles - https://technicalseo.com/tools/schema-markup-generator/
+  put back in the privacy footer link - { "label": "Privacy", "url": "/privacy" }
+  get word count of competing companies and articles using
+  use short paragraphs for content so its easy to read
+  ensure articles have a lot of images in them, esp after h1/h2
+  include some callout designs for important text like the CTA
+  include a yes/no goog/bad comparison table or other design using ticks and crosses etc
+  use lists for breaking up the content
+  ensure articles have keywords in the url, hyphens and keep them fairly short
+  add related links to other pages into the content
+  keyword optimisation for service pages, answerthepublic
+  screamingfrog free ediion will work well
+  twitter and tweet about the new blog article
+  research more keywords to target for the blog area
+  5 in-links for each page, so for blog, 1 on the listing and 4 from other pages, screamingfrog "inlinks" section can show thise
+  rank tracker system, serpfox has some free options
+  compare article types for targeted keywords, read headings and writing style
+  use content score serferscontenteditor
+  nlp-friendly answers
+  dedicated about page, about the owner and staff, but need input from marelin about the company history and aims, pictures of the staff too?
+  ensure pages have schema markup - test site against structured data
+  can midjourney be used to create interesting article heading images? probably...
+  ecommerce
+  re-use the data from /content/services?
+  advertising
+  backlinks, find places for backlinks, use ahrefs/ubersuggest backlink report to email who linked to #1 on google, get their hunter.io email
+  gmass will help to send bulk email, send followups to a pitch, ask for a guest post
+  more content set to release regularily, weekly
+  link to latest article on home page
+  link to most popular articles from the home page
+  link to related articles from each service page
+  setup a process to ensure articles are optimal and quick to make
+  reference products within the blog
+  guest blogging with other websites
+  add additional social medias
+  track conversions for the ecommerce system
+  add to Bing Places
+  to become a topical authority you need a wide coverage of content, aiming for product sales and enquiries
+  1000 articles or more, 5 per day
+  use sitemap of competitors
+  create a map of content topics
+  using answerthepublic
+  then google the keyword and see "people also ask" - seo minion download these questions
+  autosuggest "does" "what" "how"...
+  related searches from google
+  finish the waze icon link in the footer
+  ask chatgpt for topics "semantically releavant and unique"
+  then ask it to give me variations of...
+  keyword cupid - paid - can goup the topics, chatgpt too?
+  create article outlines with headings so it will generate a well formatted article
+  article length?
+  use jasper to create each document section
+  grammarly can help to avoid ai detectors
+  then human edit and review
+  optimize for seo when the article gets to page 2
+  use "surfer" to help get higher on google - paid tool
 
 services page 404's this is a repurpose of the blog area
 get web domain name from marelin probably niksalon.com.gt
@@ -122,7 +109,15 @@ add some product pages, connect them to service pages
 add pages for weddings, parties, 15yr parties, haloween makeup, any reason for visiting the salon
 compare other competitors for other ideas
 
-# Blog categories
+# Video TODO
+
+some of the clips have motion blur, edit or reshoot
+marelin wants to re-shoot it afer changing some things in the shop
+some of the clips in the video are out of focus
+still not sure about some of the colours
+shortening the pan clip to remove the coke bottle probably messed up the sound sync
+
+# Blog Category Ideas
 
 Hair care
 Skincare
@@ -137,7 +132,9 @@ Spa and relaxation techniques
 Special Days/Events
 use a celebrity name
 
-# SERVICES, taken from the "menu"
+# Services, taken from the "menu"
+
+This is so i can keep track of what they mean and if they are included
 
 balayage - gradient colour picture TODO
 cepillado y planchado - brushing and straightening DONE
@@ -151,6 +148,15 @@ tintes, color completo - non-natural whole hair, full colour, natural
 trataimientos - treatments GONE
 keratina inoar - inar keratin GONE
 keratina k-milk - k-milk keratin GONE
+
+## SEO
+
+### Backlinks
+
+spamzilla to possibly buy expired old relevant domains for easy backlinks
+competitor analysis, thisis in a sheets document
+
+### Marketing Ideas
 
 - newsletter signup
 - get onto all the facebook groups, just do an intro post or info post, no hard sales
@@ -166,7 +172,8 @@ keratina k-milk - k-milk keratin GONE
 - chase them for appointment
 - ask for a review after the appointment
 
-topical authority:
+### Topical Authority
+
 think of a keyword funnel, going from generic "what is a beauty salon" to "best type of hair extensions" or "best salon for highlights" - conversions are low with general but visits high, this is really for topical authority
 author/bio page - connect to personal profiles, reference articles to that page
 answer main questions for the topic
@@ -251,7 +258,7 @@ medias is like a line of colour in the hair, highlights, so i have two. what is 
 note- i think that pwa wont be possible for 7/7 as icon options cant be added without replacing the whole plugin :(
 i had to delete the mp4 intro video for zip size space on cloudflare limit of 25mb because no node 18 to buid
 
-# example problem log
+# Problems Encountered
 
 i broke something but the error isnt useful
 cleared all hooks
@@ -267,3 +274,4 @@ i renamed all the folders and found it was still using it even after renaming!!!
 i changed the query for the logo, only selecting the text, but thats not possible as ive done it already, yet it seems to have worked
 i turned back on al the other things and its now working on develop more
 ???!! HELP, what broke from the last time i rebooted
+I fixed it by removing everything i changed and adding it all back in, i think it was the contact section

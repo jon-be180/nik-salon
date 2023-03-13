@@ -5,7 +5,7 @@ import {
   Section
 } from "gatsby-theme-portfolio-minimal";
 
-import '@fontsource/halant' // raleway is also nice but sans-serif
+import '@fontsource/playfair-display'
 import GoogleMap from '../components/GoogleMap'
 
 import { ReviewsSection} from "../sections/Reviews"
