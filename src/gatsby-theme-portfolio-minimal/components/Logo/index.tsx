@@ -21,6 +21,7 @@ export function Logo(props: LogoProps): React.ReactElement {
       style={{ fontSize, color }}
     >
       <StaticImage
+        loading="eager"
         src="../../../../content/images/logo.png"
         alt="Nik Salon Logo"
         width={150}
