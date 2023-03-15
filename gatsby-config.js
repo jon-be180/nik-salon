@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://niksalon.gt/", // Used for sitemap generation
+        siteUrl: "https://niksalon.com.gt/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Nik Salon", // Used in manifest.json
@@ -22,12 +22,17 @@ module.exports = {
           path: "/servicios",
           usePathPrefixForArticles: true, // Default true (i.e. path will be /services/hair-cutting)
         },
-         googleAnalytics: { 
-             trackingId: "G-DMDPNGDV0M",
-             anonymize: true, // Default true
-             environments: ["production", "development"] // Default ["production"]
-         }
       },
+    },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-DMDPNGDV0M"],
+        gtagConfig: {
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -60,6 +65,14 @@ module.exports = {
         siteUrl: `https://niksalon.com.gt`,
         stripQueryString: true,
       },
+    },
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          breakpoints: [400, 768, 992],
+        }
+      }
     },
   ]
 };

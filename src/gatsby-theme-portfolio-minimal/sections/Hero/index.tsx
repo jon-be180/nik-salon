@@ -10,6 +10,7 @@ import { StaticImage } from "gatsby-plugin-image";
 import * as classes from "./style.module.css";
 
 import IntroVideoWebm from "./../../../../content/videos/nik-salon-intro.webm";
+import IntroVideoThumbnail from "./../../../../content/videos/nik-salon-intro.png";
 
 //import IntroVideoMp from "./../../../../content/videos/nik-salon-intro.mp4";
 //<source src={IntroVideoMp} type="video/mp4" />
@@ -21,7 +22,13 @@ export function HeroSection(props: PageSection): React.ReactElement {
   // todo - i broke something and now its in the middle... oops
   return (
     <Animation type="fadeUp" delay={400} className={classes.HeroOuter}>
-      <video autoPlay muted loop className={classes.Video}>
+      <video
+        autoPlay
+        muted
+        loop
+        className={classes.Video}
+        poster={IntroVideoThumbnail}
+      >
         <source src={IntroVideoWebm} type="video/webm" />
 
         <StaticImage

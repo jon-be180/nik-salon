@@ -29,16 +29,16 @@ re-enable google maps and facebook, use git history for changes
 - setup google webmaster tools
 - setup facebook chat, if required
 
-setup webmaster tools - marelin
-test sitemap can be found on google analytics and google webmaster tools
-confirm working google analytics
 facebook key - need marelin to login to the business facebook account
 google map api key - need marelin and her business card
-setup google search console
 nightwatch.io for rank monitoring
 avoid AI content detection "write the above content so that is is not detected as AI content by AI content detectors"
 
 # Phase 2:
+
+add faq review schema
+google analytics conversion events
+get TA keywords from answerthepublic, write more blog articles
 
 - new balayage image neeeded, ifve replaced with a free one but a realistic one would be even better
   schema.org business markup - https://schema.org/BeautySalon - added localbusiness from the genrator but not added for the other services or blog articles - https://technicalseo.com/tools/schema-markup-generator/

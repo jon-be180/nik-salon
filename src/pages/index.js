@@ -56,7 +56,7 @@ export default function IndexPage() {
   
   return (
     <>
-      <Seo schema={schema} />
+      <Seo schemaMarkup={schema} />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="sobre" heading="Sobre Nosotras" />
