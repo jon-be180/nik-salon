@@ -96,7 +96,7 @@
     width: 100%;
 }
 
-.TopNavigationBar a.CtaButton {
+ a.CtaButton {
     width: auto;
     height: auto;
     border-radius: var(--border-radius);
@@ -106,7 +106,7 @@
     transition: 20ms ease-out;
 }
 
-.TopNavigationBar a.CtaButton:hover {
+r a.CtaButton:hover {
     background: var(--button-secondary-color);
     color: var(--button-text-color);
 }
