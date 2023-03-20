@@ -61,7 +61,7 @@ export function Header(): React.ReactElement {
             className={classes.CtaButton}
             onClick={!isDesktopBreakpoint ? () => setOpen(!open) : undefined}
           >
-            {siteConfiguration.navigation.ctaButton.label}
+            Reservar
           </a>
         </div>
       ) : null}

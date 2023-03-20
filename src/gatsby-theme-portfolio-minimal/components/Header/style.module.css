@@ -106,7 +106,7 @@
     transition: 20ms ease-out;
 }
 
-r a.CtaButton:hover {
+a.CtaButton:hover {
     background: var(--button-secondary-color);
     color: var(--button-text-color);
 }
@@ -196,5 +196,11 @@ body {
         border-top-right-radius: 30% 1rem;
         border-top-left-radius: 50% 2rem;
         padding-top: 4rem;
+    }
+}
+
+@media (max-width: 480px) {
+    a.CtaButton {
+        padding: 0.5rem 0.5rem;
     }
 }
