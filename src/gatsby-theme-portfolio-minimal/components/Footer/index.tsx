@@ -51,6 +51,8 @@ export function Footer(): React.ReactElement {
               Viernes 08:30 - 18:30
               <br />
               Sabado 08:00 - 18:00
+              <br />
+              Domingo - Con Reserva
             </p>
           </div>
 

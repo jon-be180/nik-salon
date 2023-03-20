@@ -36,6 +36,7 @@ avoid AI content detection "write the above content so that is is not detected a
 
 # Phase 2:
 
+the logo on spash screen fades in with a black background, png issue or setting?
 add faq review schema
 google analytics conversion events
 get TA keywords from answerthepublic, write more blog articles
@@ -148,6 +149,16 @@ tintes, color completo - non-natural whole hair, full colour, natural
 trataimientos - treatments GONE
 keratina inoar - inar keratin GONE
 keratina k-milk - k-milk keratin GONE
+
+balayage
+cepillado y planchado
+cortes
+depilaciones
+maquillaje
+mechas
+nail-bar
+peinados
+tintes
 
 ## SEO
 
