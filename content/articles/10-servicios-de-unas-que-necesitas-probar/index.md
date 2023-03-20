@@ -12,7 +12,7 @@ keywords:
   - "Uñas"
 ---
 
-Si estás buscando mejorar el aspecto de tus uñas y probar algunos servicios de manicura y pedicura de alta calidad, ¡estás en el lugar correcto! En nuestro salón de belleza ofrecemos una amplia variedad de servicios de uñas para que puedas lucir unas manos y pies fabulosos en todo momento.
+Si estás buscando mejorar el aspecto de tus [uñas](/servicios/nail-bar/) y probar algunos servicios de manicura y pedicura de alta calidad, ¡estás en el lugar correcto! En nuestro salón de belleza ofrecemos una amplia variedad de servicios de uñas para que puedas lucir unas manos y pies fabulosos en todo momento.
 
 1. Manicura clásica: Este servicio básico de uñas incluye un cuidadoso recorte y limado de uñas, así como un suave masaje de manos y aplicación de esmalte. Perfecto para mantener tus uñas con un aspecto pulido y cuidado.
 
@@ -35,3 +35,5 @@ Si estás buscando mejorar el aspecto de tus uñas y probar algunos servicios de
 10. Pedicura con parafina: La pedicura con parafina es un tratamiento relajante que ayuda a hidratar y suavizar la piel seca. ¡Tus pies te lo agradecerán!
 
 ¡Reserva tu cita hoy mismo y experimenta nuestros servicios de uñas de alta calidad en nuestro salón de belleza! Con nuestros tratamientos de uñas, podrás lucir unas manos y pies fabulosos en todo momento. ¡Te esperamos!
+
+#### [Reserva Ahora](/reservar/)

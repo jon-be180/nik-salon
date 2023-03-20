@@ -31,12 +31,12 @@ La clave para lograr ondas playeras es usar una tenaza o rizador para crear onda
 
 One of the best things about beachy waves is that they work well with almost any hair type and length. Whether you have fine or thick hair, straight or curly hair, you can achieve this look with a few simple styling tricks. It's also a versatile hairstyle that can be dressed up or down depending on the occasion. You can wear it to the beach or a fancy event, making it a perfect hairstyle for any occasion.
 
-#### [Reserva Ahora](/reservar)
+#### [Reserva Ahora](/reservar/)
 
 ## Versatilidad de las Ondas Playeras
 
-Una de las mejores cosas de las ondas playeras es que funcionan bien con casi cualquier tipo y longitud de cabello. Ya sea que tengas cabello fino o grueso, liso o rizado, puedes lograr este look con algunos trucos de estilismo simples. También es un [peinado](/peinados) versátil que se puede vestir hacia arriba o hacia abajo según la ocasión. Puedes usarlo en la playa o en un evento elegante, convirtiéndolo en un peinado perfecto para cualquier ocasión.
+Una de las mejores cosas de las ondas playeras es que funcionan bien con casi cualquier tipo y longitud de cabello. Ya sea que tengas cabello fino o grueso, liso o rizado, puedes lograr este look con algunos trucos de estilismo simples. También es un [peinado](/servicios/peinados/) versátil que se puede vestir hacia arriba o hacia abajo según la ocasión. Puedes usarlo en la playa o en un evento elegante, convirtiéndolo en un peinado perfecto para cualquier ocasión.
 
 ## Conclusión
 
-Las ondas playeras son un peinado popular en Latinoamérica para cabello largo que es fácil de lograr y versátil. En nuestro salón, ofrecemos [servicios profesionales](/servicios) de estilismo para ayudarte a lograr este look. Sin embargo, también puedes lograr ondas playeras en casa con los productos y técnicas adecuados. Así que ¿por qué no intentarlo y ver cómo puede transformar tu aspecto?
+Las ondas playeras son un peinado popular en Latinoamérica para cabello largo que es fácil de lograr y versátil. En nuestro salón, ofrecemos [servicios profesionales](/servicios/) de estilismo para ayudarte a lograr este look. Sin embargo, también puedes lograr ondas playeras en casa con los productos y técnicas adecuados. Así que ¿por qué no intentarlo y ver cómo puede transformar tu aspecto?

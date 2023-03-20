@@ -28,7 +28,7 @@ Por último, pero no menos importante, asegúrate de que el salón ofrezca todo 
 
 Uno de los salones que ofrece estos servicios es Nik Salon. Con años de experiencia en la industria, tienen un equipo de estilistas expertos que se especializan en peinado y maquillaje para novias. Nik Salon tiene una reputación por crear looks de novias impresionantes que realzan la belleza natural de cada novia, y ofrecen una variedad de paquetes de bodas para satisfacer tus necesidades. Mientras investigas salones para tu día de bodas, asegúrate de considerar a Nik Salon como una opción.
 
-#### [Reserva Ahora](/reservar)
+#### [Reserva Ahora](/reservar/)
 
 ## Paso 2: Programa Consultas
 
@@ -40,13 +40,13 @@ Nik Salon ofrece consultas gratuitas para novias para discutir sus necesidades d
 
 ## Paso 3: Reserva una Prueba
 
-Después de completar tus consultas y encontrar el salón perfecto para tu cabello y [maquillaje](/servicios/maquillaje) de boda, es hora de reservar tus servicios. Dependiendo del salón, es posible que se requiera un depósito o que tengas que pagar tus servicios por adelantado, así que asegúrate de preguntar sobre sus políticas.
+Después de completar tus consultas y encontrar el salón perfecto para tu cabello y [maquillaje](/servicios/maquillaje/) de boda, es hora de reservar tus servicios. Dependiendo del salón, es posible que se requiera un depósito o que tengas que pagar tus servicios por adelantado, así que asegúrate de preguntar sobre sus políticas.
 
 Nik Salon hace que sea fácil reservar tus servicios de cabello y maquillaje para el día de tu boda. Ofrecen una variedad de paquetes de boda para elegir y sus estilistas trabajan contigo para crear un plan personalizado que satisfaga tus necesidades y se ajuste a tu presupuesto.
 
 Al reservar tus servicios, asegúrate de proporcionar al salón cualquier detalle importante, como la hora y el lugar de tu boda, así como el número de personas en tu fiesta nupcial que se peinarán y maquillarán. Esto ayudará al salón a prepararse para tu cita y asegurar que todo se desarrolle sin problemas el día de tu boda.
 
-Con Nik Salon, puedes estar segura de que estás en buenas manos. Su equipo de estilistas expertos se dedica a hacerte lucir y sentirte lo mejor posible en tu día especial, y su compromiso con un servicio excepcional es inigualable. [Reserva](/reservar) tus servicios de cabello y maquillaje para el día de tu boda con Nik Salon y déjalos ayudarte a lograr el look nupcial de tus sueños.
+Con Nik Salon, puedes estar segura de que estás en buenas manos. Su equipo de estilistas expertos se dedica a hacerte lucir y sentirte lo mejor posible en tu día especial, y su compromiso con un servicio excepcional es inigualable. [Reserva](/reservar/) tus servicios de cabello y maquillaje para el día de tu boda con Nik Salon y déjalos ayudarte a lograr el look nupcial de tus sueños.
 
 ## Paso 4: Reserva tus servicios para el día de la boda
 
@@ -56,7 +56,7 @@ Nik Salon ofrece pruebas como parte de sus paquetes de bodas, así que puedes es
 
 Recuerda, el objetivo de la prueba es crear un look que realce tu belleza natural y te haga sentir confiada y hermosa el día de tu boda. Así que no dudes en expresarte si algo no te gusta y estar abierta a las sugerencias de tu estilista.
 
-Siguiendo estos cuatro pasos, estarás en el camino correcto para lograr el look perfecto de cabello y maquillaje para el día de tu boda. Así que comienza tu planificación hoy mismo y reserva tus servicios de cabello y [maquillaje](/servicios/maquillaje) para el día de tu boda con Nik Salon.
+Siguiendo estos cuatro pasos, estarás en el camino correcto para lograr el look perfecto de cabello y maquillaje para el día de tu boda. Así que comienza tu planificación hoy mismo y reserva tus servicios de cabello y [maquillaje](/servicios/maquillaje/) para el día de tu boda con Nik Salon.
 
 ## Conclusión
 

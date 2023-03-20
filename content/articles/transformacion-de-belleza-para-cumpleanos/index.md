@@ -31,9 +31,9 @@ Elegir el salón adecuado es crucial para una transformación exitosa de regalo 
 
 - Investiga: Busca en línea salones en tu área que ofrezcan los servicios que te interesan. Revisa reseñas y calificaciones para tener una idea de la calidad y el servicio al cliente del salón.
 - Pide recomendaciones: Pregunta a amigos y familiares que hayan tenido transformaciones o servicios de salón. Es posible que puedan recomendar un salón con el que tuvieron una buena experiencia.
-- Considera tus preferencias: Piensa en el tipo de ambiente de salón que prefieres, así como en los tipos de servicios que te interesan. Algunos salones se especializan en ciertos servicios o [estilos](/servicios/peinados), así que asegúrate de elegir uno que se alinee con tus preferencias.
+- Considera tus preferencias: Piensa en el tipo de ambiente de salón que prefieres, así como en los tipos de servicios que te interesan. Algunos salones se especializan en ciertos servicios o [estilos](/servicios/peinados/), así que asegúrate de elegir uno que se alinee con tus preferencias.
 
-Si estás en San José Pinula, Guatemala, Nik Salon es una excelente opción para una transformación de regalo de cumpleaños. Ofrecen una amplia gama de servicios, incluyendo peinado, aplicación de [maquillaje](/servicios/maquillaje) y servicios de uñas, todo en un ambiente relajante y cómodo.
+Si estás en San José Pinula, Guatemala, Nik Salon es una excelente opción para una transformación de regalo de cumpleaños. Ofrecen una amplia gama de servicios, incluyendo peinado, aplicación de [maquillaje](/servicios/maquillaje/) y servicios de uñas, todo en un ambiente relajante y cómodo.
 
 ## Haciendo la cita
 
@@ -42,7 +42,7 @@ Una vez que hayas elegido un salón, es hora de hacer la cita. Aquí te presenta
 - Reserva con anticipación: Algunos salones pueden tener disponibilidad limitada, especialmente para servicios populares o en horarios pico. Reservar con anticipación puede ayudar a asegurarte la fecha y hora que deseas.
 - Comunica tus preferencias: Al hacer la cita, asegúrate de comunicar tus preferencias y cualquier solicitud especial. Esto ayudará a asegurarte de que el estilista esté preparado y pueda crear el look que deseas.
 
-#### [Reserva Ahora](/reservar)
+#### [Reserva Ahora](/reservar/)
 
 ## Preparándose para la Transformación
 

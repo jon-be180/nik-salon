@@ -2,12 +2,12 @@
   "intro": "not used",
   "title": "Descubra nuestros servicios de belleza y peluquería de primera",
   "subtitle": {
-    "prefix": "Visite nuestro salón en ",
+    "prefix": "Visite Nik Salón en ",
     "highlight": "Plaza Pinula",
     "suffix": "."
   },  
-  "description": "Bienvenido a nuestro salón ubicado en Carretera a San Jose Pinula, donde nos especializamos en todo lo relacionado con la belleza. Nuestros estilistas capacitados ofrecen una amplia gama de servicios de corte, teñido y estilismo de cabello para ayudarte a lograr el aspecto que deseas. También ofrecemos servicios completos de uñas, incluyendo manicure y pedicure, así como maquillaje y otros servicios de belleza.",
-  "description-en": "Welcome to our salon located in Carretera a San Jose Pinula, where we specialize in all things beauty. Our skilled stylists offer a wide range of hair cutting, dying, and styling services to help you achieve the look you desire. We also offer full nail services, including manicures and pedicures, as well as makeup and other beauty services. Whether you're looking for a fresh new hairstyle or a relaxing manicure, we have something for everyone.",
+  "description": "Bienvenido a Nik salón, ubicado en Carretera a San Jose Pinula, donde nos especializamos en todo lo relacionado con la belleza. Nuestros estilistas capacitados ofrecen una amplia gama de servicios de corte, teñido y estilismo de cabello para ayudarte a lograr el aspecto que deseas. También ofrecemos servicios completos de uñas, incluyendo manicure y pedicure, así como maquillaje y otros servicios de belleza.",
+  "description-en": "Welcome to nik salon located in Carretera a San Jose Pinula, where we specialize in all things beauty. Our skilled stylists offer a wide range of hair cutting, dying, and styling services to help you achieve the look you desire. We also offer full nail services, including manicures and pedicures, as well as makeup and other beauty services. Whether you're looking for a fresh new hairstyle or a relaxing manicure, we have something for everyone.",
   "socialProfiles": {
     "from": ["instagram", "whatsapp", "facebook"],
     "showIcons": true
