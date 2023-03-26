@@ -54,4 +54,4 @@ Si no está seguro de cómo hacer arte de uñas usted mismo, puede preguntarle a
 
 En Nik Salon de Belleza, ofrecemos servicios de uñas de gelish de alta calidad que pueden hacer que sus uñas luzcan hermosas y saludables. Puede encontrar más información sobre nuestro servicio de [Nail Bar](/servicios/nail-bar/). ¡No espere más para lucir unas uñas hermosas y saludables!
 
-#### [Reserva Ahora](/reservar)
+#### [Reserva Ahora](/reservar/)
