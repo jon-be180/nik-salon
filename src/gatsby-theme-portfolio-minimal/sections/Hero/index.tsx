@@ -10,6 +10,7 @@ import { StaticImage } from "gatsby-plugin-image";
 import * as classes from "./style.module.css";
 
 import IntroVideoWebm from "./../../../../content/videos/nik-salon-intro.webm";
+import IntroVideoThumbnail from "./../../../../content/videos/nik-salon-intro.webp";
 
 //import IntroVideoMp from "./../../../../content/videos/nik-salon-intro.mp4";
 //<source src={IntroVideoMp} type="video/mp4" />
@@ -26,7 +27,7 @@ export function HeroSection(props: PageSection): React.ReactElement {
         muted
         loop
         className={classes.Video}
-        poster="./../../../../content/videos/nik-salon-intro.webp"
+        poster={IntroVideoThumbnail}
       >
         <source src={IntroVideoWebm} type="video/webm" />
 
