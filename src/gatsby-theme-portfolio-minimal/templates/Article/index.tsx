@@ -32,15 +32,6 @@ export default function ArticleTemplate(
       <Page>
         <SpacerHeroSection />
         <article className={classes.Article}>
-          <div className={classes.Breadcrumb}>
-            <Link
-              to={props.pageContext.listingPagePath}
-              title="Back To Article Listing"
-            >
-              <span className={classes.BackArrow}>&#10094;</span>
-              Todos los artículos
-            </Link>
-          </div>
           <section className={classes.Header}>
             <span className={classes.Category}>
               {article.categories.join(" / ")}
