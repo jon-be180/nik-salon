@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@fontsource/playfair-display": "^4.5.13",
+    "@fontsource/shadows-into-light": "^4.5.9",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "framer-motion": "^9.0.2",
     "gatsby": "^5.0.1",
