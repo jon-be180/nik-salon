@@ -8,8 +8,8 @@ import {
 } from "gatsby-theme-portfolio-minimal";
 
 import '@fontsource/playfair-display'
-//import GoogleMap from '../components/GoogleMap'
 
+import { MapSection } from '../sections/Map'
 import { ReviewsSection } from "../sections/Reviews"
 import { ServiceBoxesSection } from '../sections/ServiceBoxes'
 
@@ -63,7 +63,7 @@ export default function IndexPage() {
         <ReviewsSection sectionId="reseñas" heading="Reseñas de clientes" />
         <ServiceBoxesSection sectionId="servicios" heading="Nuestros servicios de belleza" />
         <ContactSection sectionId="contacto" heading="Reserva Ahora" />
-        
+        <MapSection></MapSection>
       </Page>
     </>
   );
