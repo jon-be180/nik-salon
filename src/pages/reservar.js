@@ -10,6 +10,8 @@ import GoogleMap from '../components/GoogleMap'
 
 import { ReviewsSection} from "../sections/Reviews"
 import { SpacerHeroSection } from "../sections/SpacerHero";
+import { MapSection } from '../sections/Map'
+
 
 import * as classes from './reservar.module.css';
 
@@ -40,7 +42,7 @@ export default function IndexPage() {
         
         </Section>
         <ReviewsSection sectionId="reviews" heading="Reseñas de clientes" />
-        <GoogleMap/>
+        <MapSection></MapSection>
       </Page>
     </>
   );

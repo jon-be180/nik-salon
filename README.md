@@ -9,7 +9,13 @@ Requirements:
 - Gatsby v5.4.2
 - Yarn
 
-Note: gatsby develop does not run on wsl, use powershell, git wont work on powershell so use wsl...
+Note: run "yarn install" then "npm run develop" to get started
+
+# TODO
+
+image missing for a blog article
+only 9 articles, load more button doesnt work
+google map on contact page not loading due to api key error
 
 # pre-live TODO
 

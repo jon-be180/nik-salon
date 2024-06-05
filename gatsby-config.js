@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://niksalon.com.gt/", // Used for sitemap generation
+        siteUrl: "https://niksalon.com/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Nik Salon", // Used in manifest.json
@@ -46,8 +46,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: 'https://www.niksalon.com.gt',
-        sitemap: 'https://www.niksalon.com.gt/sitemap-index.xml',
+        host: 'https://www.niksalon.com',
+        sitemap: 'https://www.niksalon.com/sitemap-index.xml',
         policy: [
           {userAgent: '*', allow: '/'},
           {userAgent: 'ahrefsbot',  disallow: '/'},
@@ -62,7 +62,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://niksalon.com.gt`,
+        siteUrl: `https://niksalon.com`,
         stripQueryString: true,
       },
     },

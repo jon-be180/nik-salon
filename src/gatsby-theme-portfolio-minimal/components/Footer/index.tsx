@@ -39,7 +39,7 @@ export function Footer(): React.ReactElement {
           <div className={classes.boxCenter}>
             <h3>Correo Electrónico</h3>
             <p>
-              <a href="mailto:hola@niksalon.com.gt">hola@niksalon.com.gt</a>
+              <a href="mailto:hola@niksalon.com">hola@niksalon.com</a>
             </p>
           </div>
 

@@ -24,7 +24,7 @@ interface FilterOption {
 export default function ArticleListingTemplate(
   props: ArticleListingTemplateProps
 ): React.ReactElement {
-  const ARTICLES_PER_PAGE = 9;
+  const ARTICLES_PER_PAGE = 40;
   const articles = props.pageContext.articles;
   const [filterOptions, setFilterOptions] = React.useState<FilterOption[]>(
     extractFilterOptions(articles)
@@ -141,7 +141,8 @@ export default function ArticleListingTemplate(
                 );
               })}
           </div>
-          {(filterSelected &&
+          {(false &&
+            filterSelected &&
             selectedArticleIds.length > shownArticlesNumber) ||
           (!filterSelected && articles.length > shownArticlesNumber) ? (
             <div className={classes.LoadMore}>

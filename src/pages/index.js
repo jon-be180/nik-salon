@@ -20,9 +20,9 @@ export default function IndexPage() {
     "@type": "BeautySalon",
     name: "Nik Salon",
     image:
-      "https://niksalon.com.gt/static/logo-99b6f6dab0bc5addbcd1236f9a72db52.png",
+      "https://niksalon.com/static/logo-99b6f6dab0bc5addbcd1236f9a72db52.png",
     "@id": "",
-    url: "https://niksalon.com.gt",
+    url: "https://niksalon.com",
     telephone: "+50248373865",
     address: {
       "@type": "PostalAddress",
